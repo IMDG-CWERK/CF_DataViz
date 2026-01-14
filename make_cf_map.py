@@ -58,7 +58,7 @@ fig.update_layout(
 # Write ONE HTML file:
 # - include_plotlyjs="cdn" is smaller (needs internet)
 # - include_plotlyjs=True makes it fully self-contained (big file)
-# fig.write_html("cloudflare_map.html", include_plotlyjs="cdn")
-fig.write_html("cloudflare_map.html", include_plotlyjs=True)
+fig.write_html("cloudflare_map.html", include_plotlyjs="cdn")
+# fig.write_html("cloudflare_map.html", include_plotlyjs=True)
 
 print("Wrote cloudflare_map.html")
