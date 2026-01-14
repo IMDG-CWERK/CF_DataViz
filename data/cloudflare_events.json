@@ -1,0 +1,2738 @@
+[
+  {
+    "action": "block",
+    "clientASNDescription": "HWCLOUDS-AS-AP HUAWEI CLOUDS",
+    "clientAsn": "136907",
+    "clientCountryName": "SG",
+    "clientIP": "114.119.157.4",
+    "clientRefererHost": "m-grp.ru",
+    "clientRequestHTTPHost": "www.cashadvancenow.com",
+    "clientRequestHTTPMethodName": "GET",
+    "clientRequestHTTPProtocol": "HTTP/1.1",
+    "clientRequestPath": "/ActivityFeed/MyProfile/tabid/61/UserId/63527/Default.aspx",
+    "clientRequestQuery": "",
+    "contentScanObjTypes": [],
+    "datetime": "2026-01-12T05:24:02Z",
+    "ref": "ai-bots-block",
+    "rayName": "9bca39aaf9eb9fd9",
+    "ruleId": "7bd01eeccb6b420fa0be30264603a5cb",
+    "description": "Manage AI bots",
+    "rulesetId": "3e677e63d4e9479382576f3fa66279e7",
+    "source": "firewallManaged",
+    "userAgent": "Mozilla/5.0 (Linux; Android 7.0;) AppleWebKit/537.36 (KHTML, like Gecko) Mobile Safari/537.36 (compatible; PetalBot;+https://webmaster.petalsearch.com/site/petalbot)",
+    "matchIndex": 0,
+    "metadata": [
+      {
+        "key": "ruleset_version",
+        "value": "29"
+      },
+      {
+        "key": "version",
+        "value": "22"
+      },
+      {
+        "key": "type",
+        "value": "customer"
+      }
+    ],
+    "sampleInterval": 1
+  },
+  {
+    "action": "block",
+    "clientASNDescription": "HWCLOUDS-AS-AP HUAWEI CLOUDS",
+    "clientAsn": "136907",
+    "clientCountryName": "SG",
+    "clientIP": "114.119.132.72",
+    "clientRefererHost": "www.gstsnorthamerica.com",
+    "clientRequestHTTPHost": "www.cashadvancenow.com",
+    "clientRequestHTTPMethodName": "GET",
+    "clientRequestHTTPProtocol": "HTTP/1.1",
+    "clientRequestPath": "/ActivityFeed/MyProfile/tabid/61/UserId/79364/Default.aspx",
+    "clientRequestQuery": "",
+    "contentScanObjTypes": [],
+    "datetime": "2026-01-12T04:54:03Z",
+    "ref": "ai-bots-block",
+    "rayName": "9bca0dbe3e4f9d0c",
+    "ruleId": "7bd01eeccb6b420fa0be30264603a5cb",
+    "description": "Manage AI bots",
+    "rulesetId": "3e677e63d4e9479382576f3fa66279e7",
+    "source": "firewallManaged",
+    "userAgent": "Mozilla/5.0 (Linux; Android 7.0;) AppleWebKit/537.36 (KHTML, like Gecko) Mobile Safari/537.36 (compatible; PetalBot;+https://webmaster.petalsearch.com/site/petalbot)",
+    "matchIndex": 0,
+    "metadata": [
+      {
+        "key": "ruleset_version",
+        "value": "29"
+      },
+      {
+        "key": "version",
+        "value": "22"
+      },
+      {
+        "key": "type",
+        "value": "customer"
+      }
+    ],
+    "sampleInterval": 1
+  },
+  {
+    "action": "managed_challenge",
+    "clientASNDescription": "TRIANGLE-COMMUNICATIONS",
+    "clientAsn": "40933",
+    "clientCountryName": "US",
+    "clientIP": "64.187.193.235",
+    "clientRefererHost": "cashadvancenow.com",
+    "clientRequestHTTPHost": "cashadvancenow.com",
+    "clientRequestHTTPMethodName": "POST",
+    "clientRequestHTTPProtocol": "HTTP/3",
+    "clientRequestPath": "/wp-login.php",
+    "clientRequestQuery": "",
+    "contentScanObjTypes": [],
+    "datetime": "2026-01-12T04:40:20Z",
+    "ref": "",
+    "rayName": "9bc9f9a4da7a76d3",
+    "ruleId": "5c7942bcc6e1435b9742a6bd51c93a65",
+    "description": "CHALLENGE | wp-login",
+    "rulesetId": "40fb7b3f708a40648e03fbedc4c4550d",
+    "source": "firewallCustom",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0",
+    "matchIndex": 0,
+    "metadata": [
+      {
+        "key": "ruleset_version",
+        "value": "9"
+      },
+      {
+        "key": "version",
+        "value": "3"
+      },
+      {
+        "key": "type",
+        "value": "customer"
+      }
+    ],
+    "sampleInterval": 1
+  },
+  {
+    "action": "managed_challenge",
+    "clientASNDescription": "LEVEL3",
+    "clientAsn": "3356",
+    "clientCountryName": "US",
+    "clientIP": "4.38.83.102",
+    "clientRefererHost": "cashadvancenow.com",
+    "clientRequestHTTPHost": "cashadvancenow.com",
+    "clientRequestHTTPMethodName": "GET",
+    "clientRequestHTTPProtocol": "HTTP/3",
+    "clientRequestPath": "/wp-login.php",
+    "clientRequestQuery": "?interim-login=1&wp_lang=en_US",
+    "contentScanObjTypes": [],
+    "datetime": "2026-01-12T04:38:33Z",
+    "ref": "",
+    "rayName": "9bc9f7088a4de745",
+    "ruleId": "5c7942bcc6e1435b9742a6bd51c93a65",
+    "description": "CHALLENGE | wp-login",
+    "rulesetId": "40fb7b3f708a40648e03fbedc4c4550d",
+    "source": "firewallCustom",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0",
+    "matchIndex": 0,
+    "metadata": [
+      {
+        "key": "ruleset_version",
+        "value": "9"
+      },
+      {
+        "key": "version",
+        "value": "3"
+      },
+      {
+        "key": "type",
+        "value": "customer"
+      }
+    ],
+    "sampleInterval": 1
+  },
+  {
+    "action": "block",
+    "clientASNDescription": "AMAZON-02",
+    "clientAsn": "16509",
+    "clientCountryName": "US",
+    "clientIP": "216.73.216.14",
+    "clientRefererHost": "",
+    "clientRequestHTTPHost": "www.cashadvancenow.com",
+    "clientRequestHTTPMethodName": "GET",
+    "clientRequestHTTPProtocol": "HTTP/2",
+    "clientRequestPath": "/sitemap.xml",
+    "clientRequestQuery": "",
+    "contentScanObjTypes": [],
+    "datetime": "2026-01-12T04:33:34Z",
+    "ref": "ai-bots-block",
+    "rayName": "9bc9efbe2a3eac64",
+    "ruleId": "7bd01eeccb6b420fa0be30264603a5cb",
+    "description": "Manage AI bots",
+    "rulesetId": "3e677e63d4e9479382576f3fa66279e7",
+    "source": "firewallManaged",
+    "userAgent": "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; Claude-SearchBot/1.0; +searchbot@anthropic.com)",
+    "matchIndex": 0,
+    "metadata": [
+      {
+        "key": "ruleset_version",
+        "value": "29"
+      },
+      {
+        "key": "version",
+        "value": "22"
+      },
+      {
+        "key": "type",
+        "value": "customer"
+      }
+    ],
+    "sampleInterval": 1
+  },
+  {
+    "action": "block",
+    "clientASNDescription": "HWCLOUDS-AS-AP HUAWEI CLOUDS",
+    "clientAsn": "136907",
+    "clientCountryName": "SG",
+    "clientIP": "114.119.132.72",
+    "clientRefererHost": "pointenovinessmb.com",
+    "clientRequestHTTPHost": "www.cashadvancenow.com",
+    "clientRequestHTTPMethodName": "GET",
+    "clientRequestHTTPProtocol": "HTTP/1.1",
+    "clientRequestPath": "/ActivityFeed/MyProfile/tabid/61/UserId/83573/Default.aspx",
+    "clientRequestQuery": "",
+    "contentScanObjTypes": [],
+    "datetime": "2026-01-12T04:23:51Z",
+    "ref": "ai-bots-block",
+    "rayName": "9bc9e1819868fe1d",
+    "ruleId": "7bd01eeccb6b420fa0be30264603a5cb",
+    "description": "Manage AI bots",
+    "rulesetId": "3e677e63d4e9479382576f3fa66279e7",
+    "source": "firewallManaged",
+    "userAgent": "Mozilla/5.0 (Linux; Android 7.0;) AppleWebKit/537.36 (KHTML, like Gecko) Mobile Safari/537.36 (compatible; PetalBot;+https://webmaster.petalsearch.com/site/petalbot)",
+    "matchIndex": 0,
+    "metadata": [
+      {
+        "key": "ruleset_version",
+        "value": "29"
+      },
+      {
+        "key": "version",
+        "value": "22"
+      },
+      {
+        "key": "type",
+        "value": "customer"
+      }
+    ],
+    "sampleInterval": 1
+  },
+  {
+    "action": "block",
+    "clientASNDescription": "HWCLOUDS-AS-AP HUAWEI CLOUDS",
+    "clientAsn": "136907",
+    "clientCountryName": "SG",
+    "clientIP": "114.119.143.58",
+    "clientRefererHost": "100ssul.com",
+    "clientRequestHTTPHost": "www.cashadvancenow.com",
+    "clientRequestHTTPMethodName": "GET",
+    "clientRequestHTTPProtocol": "HTTP/1.1",
+    "clientRequestPath": "/ActivityFeed/MyProfile/tabid/61/UserId/92267/Default.aspx",
+    "clientRequestQuery": "",
+    "contentScanObjTypes": [],
+    "datetime": "2026-01-12T03:23:43Z",
+    "ref": "ai-bots-block",
+    "rayName": "9bc9896a386ba3e0",
+    "ruleId": "7bd01eeccb6b420fa0be30264603a5cb",
+    "description": "Manage AI bots",
+    "rulesetId": "3e677e63d4e9479382576f3fa66279e7",
+    "source": "firewallManaged",
+    "userAgent": "Mozilla/5.0 (Linux; Android 7.0;) AppleWebKit/537.36 (KHTML, like Gecko) Mobile Safari/537.36 (compatible; PetalBot;+https://webmaster.petalsearch.com/site/petalbot)",
+    "matchIndex": 0,
+    "metadata": [
+      {
+        "key": "ruleset_version",
+        "value": "29"
+      },
+      {
+        "key": "version",
+        "value": "22"
+      },
+      {
+        "key": "type",
+        "value": "customer"
+      }
+    ],
+    "sampleInterval": 1
+  },
+  {
+    "action": "block",
+    "clientASNDescription": "HWCLOUDS-AS-AP HUAWEI CLOUDS",
+    "clientAsn": "136907",
+    "clientCountryName": "SG",
+    "clientIP": "114.119.130.14",
+    "clientRefererHost": "u9service.yonyou.com",
+    "clientRequestHTTPHost": "www.cashadvancenow.com",
+    "clientRequestHTTPMethodName": "GET",
+    "clientRequestHTTPProtocol": "HTTP/1.1",
+    "clientRequestPath": "/ActivityFeed/MyProfile/tabid/61/UserId/92400/Default.aspx",
+    "clientRequestQuery": "",
+    "contentScanObjTypes": [],
+    "datetime": "2026-01-12T02:53:34Z",
+    "ref": "ai-bots-block",
+    "rayName": "9bc95d44cfc19c99",
+    "ruleId": "7bd01eeccb6b420fa0be30264603a5cb",
+    "description": "Manage AI bots",
+    "rulesetId": "3e677e63d4e9479382576f3fa66279e7",
+    "source": "firewallManaged",
+    "userAgent": "Mozilla/5.0 (Linux; Android 7.0;) AppleWebKit/537.36 (KHTML, like Gecko) Mobile Safari/537.36 (compatible; PetalBot;+https://webmaster.petalsearch.com/site/petalbot)",
+    "matchIndex": 0,
+    "metadata": [
+      {
+        "key": "ruleset_version",
+        "value": "29"
+      },
+      {
+        "key": "version",
+        "value": "22"
+      },
+      {
+        "key": "type",
+        "value": "customer"
+      }
+    ],
+    "sampleInterval": 1
+  },
+  {
+    "action": "block",
+    "clientASNDescription": "AMAZON-02",
+    "clientAsn": "16509",
+    "clientCountryName": "US",
+    "clientIP": "216.73.216.14",
+    "clientRefererHost": "",
+    "clientRequestHTTPHost": "www.cashadvancenow.com",
+    "clientRequestHTTPMethodName": "GET",
+    "clientRequestHTTPProtocol": "HTTP/2",
+    "clientRequestPath": "/sitemap.xml",
+    "clientRequestQuery": "",
+    "contentScanObjTypes": [],
+    "datetime": "2026-01-12T02:27:50Z",
+    "ref": "ai-bots-block",
+    "rayName": "9bc937924911eb6a",
+    "ruleId": "7bd01eeccb6b420fa0be30264603a5cb",
+    "description": "Manage AI bots",
+    "rulesetId": "3e677e63d4e9479382576f3fa66279e7",
+    "source": "firewallManaged",
+    "userAgent": "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; Claude-SearchBot/1.0; +searchbot@anthropic.com)",
+    "matchIndex": 0,
+    "metadata": [
+      {
+        "key": "ruleset_version",
+        "value": "29"
+      },
+      {
+        "key": "version",
+        "value": "22"
+      },
+      {
+        "key": "type",
+        "value": "customer"
+      }
+    ],
+    "sampleInterval": 1
+  },
+  {
+    "action": "block",
+    "clientASNDescription": "AMAZON-02",
+    "clientAsn": "16509",
+    "clientCountryName": "US",
+    "clientIP": "216.73.216.14",
+    "clientRefererHost": "",
+    "clientRequestHTTPHost": "cashadvancenow.com",
+    "clientRequestHTTPMethodName": "GET",
+    "clientRequestHTTPProtocol": "HTTP/2",
+    "clientRequestPath": "/wp-sitemap.xml",
+    "clientRequestQuery": "",
+    "contentScanObjTypes": [],
+    "datetime": "2026-01-12T02:27:21Z",
+    "ref": "ai-bots-block",
+    "rayName": "9bc936de1ed91a24",
+    "ruleId": "7bd01eeccb6b420fa0be30264603a5cb",
+    "description": "Manage AI bots",
+    "rulesetId": "3e677e63d4e9479382576f3fa66279e7",
+    "source": "firewallManaged",
+    "userAgent": "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; Claude-SearchBot/1.0; +searchbot@anthropic.com)",
+    "matchIndex": 0,
+    "metadata": [
+      {
+        "key": "ruleset_version",
+        "value": "29"
+      },
+      {
+        "key": "version",
+        "value": "22"
+      },
+      {
+        "key": "type",
+        "value": "customer"
+      }
+    ],
+    "sampleInterval": 1
+  },
+  {
+    "action": "block",
+    "clientASNDescription": "HWCLOUDS-AS-AP HUAWEI CLOUDS",
+    "clientAsn": "136907",
+    "clientCountryName": "SG",
+    "clientIP": "114.119.135.107",
+    "clientRefererHost": "linkarena.com",
+    "clientRequestHTTPHost": "www.cashadvancenow.com",
+    "clientRequestHTTPMethodName": "GET",
+    "clientRequestHTTPProtocol": "HTTP/1.1",
+    "clientRequestPath": "/ActivityFeed/MyProfile/tabid/61/UserId/92654/Default.aspx",
+    "clientRequestQuery": "",
+    "contentScanObjTypes": [],
+    "datetime": "2026-01-12T01:51:15Z",
+    "ref": "ai-bots-block",
+    "rayName": "9bc901fb9e737e08",
+    "ruleId": "7bd01eeccb6b420fa0be30264603a5cb",
+    "description": "Manage AI bots",
+    "rulesetId": "3e677e63d4e9479382576f3fa66279e7",
+    "source": "firewallManaged",
+    "userAgent": "Mozilla/5.0 (Linux; Android 7.0;) AppleWebKit/537.36 (KHTML, like Gecko) Mobile Safari/537.36 (compatible; PetalBot;+https://webmaster.petalsearch.com/site/petalbot)",
+    "matchIndex": 0,
+    "metadata": [
+      {
+        "key": "ruleset_version",
+        "value": "29"
+      },
+      {
+        "key": "version",
+        "value": "22"
+      },
+      {
+        "key": "type",
+        "value": "customer"
+      }
+    ],
+    "sampleInterval": 1
+  },
+  {
+    "action": "block",
+    "clientASNDescription": "AMAZON-02",
+    "clientAsn": "16509",
+    "clientCountryName": "US",
+    "clientIP": "216.73.216.14",
+    "clientRefererHost": "",
+    "clientRequestHTTPHost": "www.cashadvancenow.com",
+    "clientRequestHTTPMethodName": "GET",
+    "clientRequestHTTPProtocol": "HTTP/2",
+    "clientRequestPath": "/ActivityFeed/MyProfile/tabid/61/UserId/371765/Default.aspx",
+    "clientRequestQuery": "",
+    "contentScanObjTypes": [],
+    "datetime": "2026-01-12T01:27:40Z",
+    "ref": "ai-bots-block",
+    "rayName": "9bc8df6ddb9561e9",
+    "ruleId": "7bd01eeccb6b420fa0be30264603a5cb",
+    "description": "Manage AI bots",
+    "rulesetId": "3e677e63d4e9479382576f3fa66279e7",
+    "source": "firewallManaged",
+    "userAgent": "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; Claude-SearchBot/1.0; +searchbot@anthropic.com)",
+    "matchIndex": 0,
+    "metadata": [
+      {
+        "key": "ruleset_version",
+        "value": "29"
+      },
+      {
+        "key": "version",
+        "value": "22"
+      },
+      {
+        "key": "type",
+        "value": "customer"
+      }
+    ],
+    "sampleInterval": 1
+  },
+  {
+    "action": "block",
+    "clientASNDescription": "AMAZON-02",
+    "clientAsn": "16509",
+    "clientCountryName": "US",
+    "clientIP": "216.73.216.14",
+    "clientRefererHost": "",
+    "clientRequestHTTPHost": "www.cashadvancenow.com",
+    "clientRequestHTTPMethodName": "GET",
+    "clientRequestHTTPProtocol": "HTTP/2",
+    "clientRequestPath": "/ActivityFeed/MyProfile/tabid/61/UserId/162697/Default.aspx",
+    "clientRequestQuery": "",
+    "contentScanObjTypes": [],
+    "datetime": "2026-01-12T01:27:33Z",
+    "ref": "ai-bots-block",
+    "rayName": "9bc8df3fceb0fc3a",
+    "ruleId": "7bd01eeccb6b420fa0be30264603a5cb",
+    "description": "Manage AI bots",
+    "rulesetId": "3e677e63d4e9479382576f3fa66279e7",
+    "source": "firewallManaged",
+    "userAgent": "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; Claude-SearchBot/1.0; +searchbot@anthropic.com)",
+    "matchIndex": 0,
+    "metadata": [
+      {
+        "key": "ruleset_version",
+        "value": "29"
+      },
+      {
+        "key": "version",
+        "value": "22"
+      },
+      {
+        "key": "type",
+        "value": "customer"
+      }
+    ],
+    "sampleInterval": 1
+  },
+  {
+    "action": "block",
+    "clientASNDescription": "HWCLOUDS-AS-AP HUAWEI CLOUDS",
+    "clientAsn": "136907",
+    "clientCountryName": "SG",
+    "clientIP": "114.119.157.4",
+    "clientRefererHost": "itownz.com",
+    "clientRequestHTTPHost": "www.cashadvancenow.com",
+    "clientRequestHTTPMethodName": "GET",
+    "clientRequestHTTPProtocol": "HTTP/1.1",
+    "clientRequestPath": "/ActivityFeed/MyProfile/tabid/61/UserId/95645/Default.aspx",
+    "clientRequestQuery": "",
+    "contentScanObjTypes": [],
+    "datetime": "2026-01-12T01:21:13Z",
+    "ref": "ai-bots-block",
+    "rayName": "9bc8d5f8784e9cf9",
+    "ruleId": "7bd01eeccb6b420fa0be30264603a5cb",
+    "description": "Manage AI bots",
+    "rulesetId": "3e677e63d4e9479382576f3fa66279e7",
+    "source": "firewallManaged",
+    "userAgent": "Mozilla/5.0 (Linux; Android 7.0;) AppleWebKit/537.36 (KHTML, like Gecko) Mobile Safari/537.36 (compatible; PetalBot;+https://webmaster.petalsearch.com/site/petalbot)",
+    "matchIndex": 0,
+    "metadata": [
+      {
+        "key": "ruleset_version",
+        "value": "29"
+      },
+      {
+        "key": "version",
+        "value": "22"
+      },
+      {
+        "key": "type",
+        "value": "customer"
+      }
+    ],
+    "sampleInterval": 1
+  },
+  {
+    "action": "block",
+    "clientASNDescription": "HWCLOUDS-AS-AP HUAWEI CLOUDS",
+    "clientAsn": "136907",
+    "clientCountryName": "SG",
+    "clientIP": "114.119.132.72",
+    "clientRefererHost": "",
+    "clientRequestHTTPHost": "www.cashadvancenow.com",
+    "clientRequestHTTPMethodName": "GET",
+    "clientRequestHTTPProtocol": "HTTP/1.1",
+    "clientRequestPath": "/Message.aspx",
+    "clientRequestQuery": "",
+    "contentScanObjTypes": [],
+    "datetime": "2026-01-12T00:51:06Z",
+    "ref": "ai-bots-block",
+    "rayName": "9bc8a9dbeb026baa",
+    "ruleId": "7bd01eeccb6b420fa0be30264603a5cb",
+    "description": "Manage AI bots",
+    "rulesetId": "3e677e63d4e9479382576f3fa66279e7",
+    "source": "firewallManaged",
+    "userAgent": "Mozilla/5.0 (Linux; Android 7.0;) AppleWebKit/537.36 (KHTML, like Gecko) Mobile Safari/537.36 (compatible; PetalBot;+https://webmaster.petalsearch.com/site/petalbot)",
+    "matchIndex": 0,
+    "metadata": [
+      {
+        "key": "ruleset_version",
+        "value": "29"
+      },
+      {
+        "key": "version",
+        "value": "22"
+      },
+      {
+        "key": "type",
+        "value": "customer"
+      }
+    ],
+    "sampleInterval": 1
+  },
+  {
+    "action": "block",
+    "clientASNDescription": "HWCLOUDS-AS-AP HUAWEI CLOUDS",
+    "clientAsn": "136907",
+    "clientCountryName": "SG",
+    "clientIP": "114.119.157.4",
+    "clientRefererHost": "www.openadmintools.com",
+    "clientRequestHTTPHost": "www.cashadvancenow.com",
+    "clientRequestHTTPMethodName": "GET",
+    "clientRequestHTTPProtocol": "HTTP/1.1",
+    "clientRequestPath": "/favicon.ico",
+    "clientRequestQuery": "",
+    "contentScanObjTypes": [],
+    "datetime": "2026-01-12T00:21:02Z",
+    "ref": "ai-bots-block",
+    "rayName": "9bc87dd409635fab",
+    "ruleId": "7bd01eeccb6b420fa0be30264603a5cb",
+    "description": "Manage AI bots",
+    "rulesetId": "3e677e63d4e9479382576f3fa66279e7",
+    "source": "firewallManaged",
+    "userAgent": "Mozilla/5.0 (Linux; Android 7.0;) AppleWebKit/537.36 (KHTML, like Gecko) Mobile Safari/537.36 (compatible; PetalBot;+https://webmaster.petalsearch.com/site/petalbot)",
+    "matchIndex": 0,
+    "metadata": [
+      {
+        "key": "ruleset_version",
+        "value": "29"
+      },
+      {
+        "key": "version",
+        "value": "22"
+      },
+      {
+        "key": "type",
+        "value": "customer"
+      }
+    ],
+    "sampleInterval": 1
+  },
+  {
+    "action": "block",
+    "clientASNDescription": "HWCLOUDS-AS-AP HUAWEI CLOUDS",
+    "clientAsn": "136907",
+    "clientCountryName": "SG",
+    "clientIP": "114.119.135.35",
+    "clientRefererHost": "can.fm",
+    "clientRequestHTTPHost": "www.cashadvancenow.com",
+    "clientRequestHTTPMethodName": "GET",
+    "clientRequestHTTPProtocol": "HTTP/1.1",
+    "clientRequestPath": "/privacy-policy/",
+    "clientRequestQuery": "",
+    "contentScanObjTypes": [],
+    "datetime": "2026-01-11T23:50:57Z",
+    "ref": "ai-bots-block",
+    "rayName": "9bc851c2efaefd74",
+    "ruleId": "7bd01eeccb6b420fa0be30264603a5cb",
+    "description": "Manage AI bots",
+    "rulesetId": "3e677e63d4e9479382576f3fa66279e7",
+    "source": "firewallManaged",
+    "userAgent": "Mozilla/5.0 (Linux; Android 7.0;) AppleWebKit/537.36 (KHTML, like Gecko) Mobile Safari/537.36 (compatible; PetalBot;+https://webmaster.petalsearch.com/site/petalbot)",
+    "matchIndex": 0,
+    "metadata": [
+      {
+        "key": "ruleset_version",
+        "value": "29"
+      },
+      {
+        "key": "version",
+        "value": "22"
+      },
+      {
+        "key": "type",
+        "value": "customer"
+      }
+    ],
+    "sampleInterval": 1
+  },
+  {
+    "action": "block",
+    "clientASNDescription": "HWCLOUDS-AS-AP HUAWEI CLOUDS",
+    "clientAsn": "136907",
+    "clientCountryName": "SG",
+    "clientIP": "114.119.130.14",
+    "clientRefererHost": "",
+    "clientRequestHTTPHost": "cashadvancenow.com",
+    "clientRequestHTTPMethodName": "GET",
+    "clientRequestHTTPProtocol": "HTTP/1.1",
+    "clientRequestPath": "/",
+    "clientRequestQuery": "",
+    "contentScanObjTypes": [],
+    "datetime": "2026-01-11T23:20:50Z",
+    "ref": "ai-bots-block",
+    "rayName": "9bc825a16bdea05d",
+    "ruleId": "7bd01eeccb6b420fa0be30264603a5cb",
+    "description": "Manage AI bots",
+    "rulesetId": "3e677e63d4e9479382576f3fa66279e7",
+    "source": "firewallManaged",
+    "userAgent": "Mozilla/5.0 (Linux; Android 7.0;) AppleWebKit/537.36 (KHTML, like Gecko) Mobile Safari/537.36 (compatible; PetalBot;+https://webmaster.petalsearch.com/site/petalbot)",
+    "matchIndex": 0,
+    "metadata": [
+      {
+        "key": "ruleset_version",
+        "value": "29"
+      },
+      {
+        "key": "version",
+        "value": "22"
+      },
+      {
+        "key": "type",
+        "value": "customer"
+      }
+    ],
+    "sampleInterval": 1
+  },
+  {
+    "action": "managed_challenge",
+    "clientASNDescription": "BRESNAN-33588",
+    "clientAsn": "33588",
+    "clientCountryName": "US",
+    "clientIP": "47.44.117.221",
+    "clientRefererHost": "cashadvancenow.com",
+    "clientRequestHTTPHost": "cashadvancenow.com",
+    "clientRequestHTTPMethodName": "GET",
+    "clientRequestHTTPProtocol": "HTTP/3",
+    "clientRequestPath": "/wp-login.php",
+    "clientRequestQuery": "?interim-login=1&wp_lang=en_US",
+    "contentScanObjTypes": [],
+    "datetime": "2026-01-11T23:05:23Z",
+    "ref": "",
+    "rayName": "9bc80f023bb8eba3",
+    "ruleId": "5c7942bcc6e1435b9742a6bd51c93a65",
+    "description": "CHALLENGE | wp-login",
+    "rulesetId": "40fb7b3f708a40648e03fbedc4c4550d",
+    "source": "firewallCustom",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0",
+    "matchIndex": 0,
+    "metadata": [
+      {
+        "key": "ruleset_version",
+        "value": "9"
+      },
+      {
+        "key": "version",
+        "value": "3"
+      },
+      {
+        "key": "type",
+        "value": "customer"
+      }
+    ],
+    "sampleInterval": 1
+  },
+  {
+    "action": "block",
+    "clientASNDescription": "HWCLOUDS-AS-AP HUAWEI CLOUDS",
+    "clientAsn": "136907",
+    "clientCountryName": "SG",
+    "clientIP": "114.119.135.35",
+    "clientRefererHost": "",
+    "clientRequestHTTPHost": "cashadvancenow.com",
+    "clientRequestHTTPMethodName": "GET",
+    "clientRequestHTTPProtocol": "HTTP/1.1",
+    "clientRequestPath": "/",
+    "clientRequestQuery": "",
+    "contentScanObjTypes": [],
+    "datetime": "2026-01-11T22:50:44Z",
+    "ref": "ai-bots-block",
+    "rayName": "9bc7f98d5cf6fd23",
+    "ruleId": "7bd01eeccb6b420fa0be30264603a5cb",
+    "description": "Manage AI bots",
+    "rulesetId": "3e677e63d4e9479382576f3fa66279e7",
+    "source": "firewallManaged",
+    "userAgent": "Mozilla/5.0 (Linux; Android 7.0;) AppleWebKit/537.36 (KHTML, like Gecko) Mobile Safari/537.36 (compatible; PetalBot;+https://webmaster.petalsearch.com/site/petalbot)",
+    "matchIndex": 0,
+    "metadata": [
+      {
+        "key": "ruleset_version",
+        "value": "29"
+      },
+      {
+        "key": "version",
+        "value": "22"
+      },
+      {
+        "key": "type",
+        "value": "customer"
+      }
+    ],
+    "sampleInterval": 1
+  },
+  {
+    "action": "block",
+    "clientASNDescription": "HWCLOUDS-AS-AP HUAWEI CLOUDS",
+    "clientAsn": "136907",
+    "clientCountryName": "SG",
+    "clientIP": "114.119.135.107",
+    "clientRefererHost": "news.sneakymonkeys.com",
+    "clientRequestHTTPHost": "www.cashadvancenow.com",
+    "clientRequestHTTPMethodName": "GET",
+    "clientRequestHTTPProtocol": "HTTP/1.1",
+    "clientRequestPath": "/ActivityFeed/MyProfile/tabid/61/UserId/451611/Default.aspx",
+    "clientRequestQuery": "",
+    "contentScanObjTypes": [],
+    "datetime": "2026-01-11T22:20:37Z",
+    "ref": "ai-bots-block",
+    "rayName": "9bc7cd700980f8e0",
+    "ruleId": "7bd01eeccb6b420fa0be30264603a5cb",
+    "description": "Manage AI bots",
+    "rulesetId": "3e677e63d4e9479382576f3fa66279e7",
+    "source": "firewallManaged",
+    "userAgent": "Mozilla/5.0 (Linux; Android 7.0;) AppleWebKit/537.36 (KHTML, like Gecko) Mobile Safari/537.36 (compatible; PetalBot;+https://webmaster.petalsearch.com/site/petalbot)",
+    "matchIndex": 0,
+    "metadata": [
+      {
+        "key": "ruleset_version",
+        "value": "29"
+      },
+      {
+        "key": "version",
+        "value": "22"
+      },
+      {
+        "key": "type",
+        "value": "customer"
+      }
+    ],
+    "sampleInterval": 1
+  },
+  {
+    "action": "block",
+    "clientASNDescription": "HWCLOUDS-AS-AP HUAWEI CLOUDS",
+    "clientAsn": "136907",
+    "clientCountryName": "SG",
+    "clientIP": "114.119.131.189",
+    "clientRefererHost": "www.radiopampa.com.br",
+    "clientRequestHTTPHost": "www.cashadvancenow.com",
+    "clientRequestHTTPMethodName": "GET",
+    "clientRequestHTTPProtocol": "HTTP/1.1",
+    "clientRequestPath": "/ActivityFeed/MyProfile/tabid/61/UserId/454001/Default.aspx",
+    "clientRequestQuery": "",
+    "contentScanObjTypes": [],
+    "datetime": "2026-01-11T21:50:32Z",
+    "ref": "ai-bots-block",
+    "rayName": "9bc7a15b38993e53",
+    "ruleId": "7bd01eeccb6b420fa0be30264603a5cb",
+    "description": "Manage AI bots",
+    "rulesetId": "3e677e63d4e9479382576f3fa66279e7",
+    "source": "firewallManaged",
+    "userAgent": "Mozilla/5.0 (Linux; Android 7.0;) AppleWebKit/537.36 (KHTML, like Gecko) Mobile Safari/537.36 (compatible; PetalBot;+https://webmaster.petalsearch.com/site/petalbot)",
+    "matchIndex": 0,
+    "metadata": [
+      {
+        "key": "ruleset_version",
+        "value": "29"
+      },
+      {
+        "key": "version",
+        "value": "22"
+      },
+      {
+        "key": "type",
+        "value": "customer"
+      }
+    ],
+    "sampleInterval": 1
+  },
+  {
+    "action": "block",
+    "clientASNDescription": "HWCLOUDS-AS-AP HUAWEI CLOUDS",
+    "clientAsn": "136907",
+    "clientCountryName": "SG",
+    "clientIP": "114.119.157.4",
+    "clientRefererHost": "farfromhappy.com",
+    "clientRequestHTTPHost": "www.cashadvancenow.com",
+    "clientRequestHTTPMethodName": "GET",
+    "clientRequestHTTPProtocol": "HTTP/1.1",
+    "clientRequestPath": "/ActivityFeed/MyProfile/tabid/61/UserId/456161/Default.aspx",
+    "clientRequestQuery": "",
+    "contentScanObjTypes": [],
+    "datetime": "2026-01-11T21:20:26Z",
+    "ref": "ai-bots-block",
+    "rayName": "9bc77546bf55ce53",
+    "ruleId": "7bd01eeccb6b420fa0be30264603a5cb",
+    "description": "Manage AI bots",
+    "rulesetId": "3e677e63d4e9479382576f3fa66279e7",
+    "source": "firewallManaged",
+    "userAgent": "Mozilla/5.0 (Linux; Android 7.0;) AppleWebKit/537.36 (KHTML, like Gecko) Mobile Safari/537.36 (compatible; PetalBot;+https://webmaster.petalsearch.com/site/petalbot)",
+    "matchIndex": 0,
+    "metadata": [
+      {
+        "key": "ruleset_version",
+        "value": "29"
+      },
+      {
+        "key": "version",
+        "value": "22"
+      },
+      {
+        "key": "type",
+        "value": "customer"
+      }
+    ],
+    "sampleInterval": 1
+  },
+  {
+    "action": "block",
+    "clientASNDescription": "AMAZON-02",
+    "clientAsn": "16509",
+    "clientCountryName": "US",
+    "clientIP": "216.73.216.14",
+    "clientRefererHost": "",
+    "clientRequestHTTPHost": "www.cashadvancenow.com",
+    "clientRequestHTTPMethodName": "GET",
+    "clientRequestHTTPProtocol": "HTTP/2",
+    "clientRequestPath": "/ActivityFeed/MyProfile/tabid/61/UserId/437250/Default.aspx",
+    "clientRequestQuery": "",
+    "contentScanObjTypes": [],
+    "datetime": "2026-01-11T21:16:11Z",
+    "ref": "ai-bots-block",
+    "rayName": "9bc76f0dfc8ffa25",
+    "ruleId": "7bd01eeccb6b420fa0be30264603a5cb",
+    "description": "Manage AI bots",
+    "rulesetId": "3e677e63d4e9479382576f3fa66279e7",
+    "source": "firewallManaged",
+    "userAgent": "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; Claude-SearchBot/1.0; +searchbot@anthropic.com)",
+    "matchIndex": 0,
+    "metadata": [
+      {
+        "key": "ruleset_version",
+        "value": "29"
+      },
+      {
+        "key": "version",
+        "value": "22"
+      },
+      {
+        "key": "type",
+        "value": "customer"
+      }
+    ],
+    "sampleInterval": 1
+  },
+  {
+    "action": "block",
+    "clientASNDescription": "HWCLOUDS-AS-AP HUAWEI CLOUDS",
+    "clientAsn": "136907",
+    "clientCountryName": "SG",
+    "clientIP": "114.119.131.189",
+    "clientRefererHost": "blogs.motomag.com",
+    "clientRequestHTTPHost": "www.cashadvancenow.com",
+    "clientRequestHTTPMethodName": "GET",
+    "clientRequestHTTPProtocol": "HTTP/1.1",
+    "clientRequestPath": "/ActivityFeed/MyProfile/tabid/61/UserId/46822/Default.aspx",
+    "clientRequestQuery": "",
+    "contentScanObjTypes": [],
+    "datetime": "2026-01-11T20:50:22Z",
+    "ref": "ai-bots-block",
+    "rayName": "9bc74939d8a991bd",
+    "ruleId": "7bd01eeccb6b420fa0be30264603a5cb",
+    "description": "Manage AI bots",
+    "rulesetId": "3e677e63d4e9479382576f3fa66279e7",
+    "source": "firewallManaged",
+    "userAgent": "Mozilla/5.0 (Linux; Android 7.0;) AppleWebKit/537.36 (KHTML, like Gecko) Mobile Safari/537.36 (compatible; PetalBot;+https://webmaster.petalsearch.com/site/petalbot)",
+    "matchIndex": 0,
+    "metadata": [
+      {
+        "key": "ruleset_version",
+        "value": "29"
+      },
+      {
+        "key": "version",
+        "value": "22"
+      },
+      {
+        "key": "type",
+        "value": "customer"
+      }
+    ],
+    "sampleInterval": 1
+  },
+  {
+    "action": "block",
+    "clientASNDescription": "AMAZON-02",
+    "clientAsn": "16509",
+    "clientCountryName": "US",
+    "clientIP": "216.73.216.14",
+    "clientRefererHost": "",
+    "clientRequestHTTPHost": "www.cashadvancenow.com",
+    "clientRequestHTTPMethodName": "GET",
+    "clientRequestHTTPProtocol": "HTTP/1.1",
+    "clientRequestPath": "/",
+    "clientRequestQuery": "",
+    "contentScanObjTypes": [],
+    "datetime": "2026-01-11T20:04:31Z",
+    "ref": "ai-bots-block",
+    "rayName": "9bc70611ced9a392",
+    "ruleId": "7bd01eeccb6b420fa0be30264603a5cb",
+    "description": "Manage AI bots",
+    "rulesetId": "3e677e63d4e9479382576f3fa66279e7",
+    "source": "firewallManaged",
+    "userAgent": "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; Claude-SearchBot/1.0; +searchbot@anthropic.com)",
+    "matchIndex": 0,
+    "metadata": [
+      {
+        "key": "ruleset_version",
+        "value": "29"
+      },
+      {
+        "key": "version",
+        "value": "22"
+      },
+      {
+        "key": "type",
+        "value": "customer"
+      }
+    ],
+    "sampleInterval": 1
+  },
+  {
+    "action": "block",
+    "clientASNDescription": "HWCLOUDS-AS-AP HUAWEI CLOUDS",
+    "clientAsn": "136907",
+    "clientCountryName": "SG",
+    "clientIP": "114.119.132.72",
+    "clientRefererHost": "childrenofthepromise.org",
+    "clientRequestHTTPHost": "www.cashadvancenow.com",
+    "clientRequestHTTPMethodName": "GET",
+    "clientRequestHTTPProtocol": "HTTP/1.1",
+    "clientRequestPath": "/ActivityFeed/MyProfile/tabid/61/UserId/471728/Default.aspx",
+    "clientRequestQuery": "",
+    "contentScanObjTypes": [],
+    "datetime": "2026-01-11T19:56:14Z",
+    "ref": "ai-bots-block",
+    "rayName": "9bc6f9edacbefeae",
+    "ruleId": "7bd01eeccb6b420fa0be30264603a5cb",
+    "description": "Manage AI bots",
+    "rulesetId": "3e677e63d4e9479382576f3fa66279e7",
+    "source": "firewallManaged",
+    "userAgent": "Mozilla/5.0 (Linux; Android 7.0;) AppleWebKit/537.36 (KHTML, like Gecko) Mobile Safari/537.36 (compatible; PetalBot;+https://webmaster.petalsearch.com/site/petalbot)",
+    "matchIndex": 0,
+    "metadata": [
+      {
+        "key": "ruleset_version",
+        "value": "29"
+      },
+      {
+        "key": "version",
+        "value": "22"
+      },
+      {
+        "key": "type",
+        "value": "customer"
+      }
+    ],
+    "sampleInterval": 1
+  },
+  {
+    "action": "block",
+    "clientASNDescription": "HWCLOUDS-AS-AP HUAWEI CLOUDS",
+    "clientAsn": "136907",
+    "clientCountryName": "SG",
+    "clientIP": "114.119.132.72",
+    "clientRefererHost": "kevinharrington.tv",
+    "clientRequestHTTPHost": "www.cashadvancenow.com",
+    "clientRequestHTTPMethodName": "GET",
+    "clientRequestHTTPProtocol": "HTTP/1.1",
+    "clientRequestPath": "/ActivityFeed/MyProfile/tabid/61/UserId/47692/Default.aspx",
+    "clientRequestQuery": "",
+    "contentScanObjTypes": [],
+    "datetime": "2026-01-11T19:29:10Z",
+    "ref": "ai-bots-block",
+    "rayName": "9bc6d24aee1c18f8",
+    "ruleId": "7bd01eeccb6b420fa0be30264603a5cb",
+    "description": "Manage AI bots",
+    "rulesetId": "3e677e63d4e9479382576f3fa66279e7",
+    "source": "firewallManaged",
+    "userAgent": "Mozilla/5.0 (Linux; Android 7.0;) AppleWebKit/537.36 (KHTML, like Gecko) Mobile Safari/537.36 (compatible; PetalBot;+https://webmaster.petalsearch.com/site/petalbot)",
+    "matchIndex": 0,
+    "metadata": [
+      {
+        "key": "ruleset_version",
+        "value": "29"
+      },
+      {
+        "key": "version",
+        "value": "22"
+      },
+      {
+        "key": "type",
+        "value": "customer"
+      }
+    ],
+    "sampleInterval": 1
+  },
+  {
+    "action": "block",
+    "clientASNDescription": "HWCLOUDS-AS-AP HUAWEI CLOUDS",
+    "clientAsn": "136907",
+    "clientCountryName": "SG",
+    "clientIP": "114.119.157.4",
+    "clientRefererHost": "ozaki-k.com",
+    "clientRequestHTTPHost": "www.cashadvancenow.com",
+    "clientRequestHTTPMethodName": "GET",
+    "clientRequestHTTPProtocol": "HTTP/1.1",
+    "clientRequestPath": "/ActivityFeed/MyProfile/tabid/61/UserId/48454/Default.aspx",
+    "clientRequestQuery": "",
+    "contentScanObjTypes": [],
+    "datetime": "2026-01-11T19:02:07Z",
+    "ref": "ai-bots-block",
+    "rayName": "9bc6aaa77b2d44b4",
+    "ruleId": "7bd01eeccb6b420fa0be30264603a5cb",
+    "description": "Manage AI bots",
+    "rulesetId": "3e677e63d4e9479382576f3fa66279e7",
+    "source": "firewallManaged",
+    "userAgent": "Mozilla/5.0 (Linux; Android 7.0;) AppleWebKit/537.36 (KHTML, like Gecko) Mobile Safari/537.36 (compatible; PetalBot;+https://webmaster.petalsearch.com/site/petalbot)",
+    "matchIndex": 0,
+    "metadata": [
+      {
+        "key": "ruleset_version",
+        "value": "29"
+      },
+      {
+        "key": "version",
+        "value": "22"
+      },
+      {
+        "key": "type",
+        "value": "customer"
+      }
+    ],
+    "sampleInterval": 1
+  },
+  {
+    "action": "block",
+    "clientASNDescription": "HWCLOUDS-AS-AP HUAWEI CLOUDS",
+    "clientAsn": "136907",
+    "clientCountryName": "SG",
+    "clientIP": "114.119.130.14",
+    "clientRefererHost": "finsmob-exoduss.org",
+    "clientRequestHTTPHost": "www.cashadvancenow.com",
+    "clientRequestHTTPMethodName": "GET",
+    "clientRequestHTTPProtocol": "HTTP/1.1",
+    "clientRequestPath": "/ActivityFeed/MyProfile/tabid/61/UserId/48523/Default.aspx",
+    "clientRequestQuery": "",
+    "contentScanObjTypes": [],
+    "datetime": "2026-01-11T18:35:02Z",
+    "ref": "ai-bots-block",
+    "rayName": "9bc682ffbc4b9ba3",
+    "ruleId": "7bd01eeccb6b420fa0be30264603a5cb",
+    "description": "Manage AI bots",
+    "rulesetId": "3e677e63d4e9479382576f3fa66279e7",
+    "source": "firewallManaged",
+    "userAgent": "Mozilla/5.0 (Linux; Android 7.0;) AppleWebKit/537.36 (KHTML, like Gecko) Mobile Safari/537.36 (compatible; PetalBot;+https://webmaster.petalsearch.com/site/petalbot)",
+    "matchIndex": 0,
+    "metadata": [
+      {
+        "key": "ruleset_version",
+        "value": "29"
+      },
+      {
+        "key": "version",
+        "value": "22"
+      },
+      {
+        "key": "type",
+        "value": "customer"
+      }
+    ],
+    "sampleInterval": 1
+  },
+  {
+    "action": "block",
+    "clientASNDescription": "HWCLOUDS-AS-AP HUAWEI CLOUDS",
+    "clientAsn": "136907",
+    "clientCountryName": "SG",
+    "clientIP": "114.119.157.50",
+    "clientRefererHost": "www.ernesto-herrera.com",
+    "clientRequestHTTPHost": "www.cashadvancenow.com",
+    "clientRequestHTTPMethodName": "GET",
+    "clientRequestHTTPProtocol": "HTTP/1.1",
+    "clientRequestPath": "/ActivityFeed/MyProfile/tabid/61/UserId/62930/Default.aspx",
+    "clientRequestQuery": "",
+    "contentScanObjTypes": [],
+    "datetime": "2026-01-11T18:08:01Z",
+    "ref": "ai-bots-block",
+    "rayName": "9bc65b695a63c211",
+    "ruleId": "7bd01eeccb6b420fa0be30264603a5cb",
+    "description": "Manage AI bots",
+    "rulesetId": "3e677e63d4e9479382576f3fa66279e7",
+    "source": "firewallManaged",
+    "userAgent": "Mozilla/5.0 (Linux; Android 7.0;) AppleWebKit/537.36 (KHTML, like Gecko) Mobile Safari/537.36 (compatible; PetalBot;+https://webmaster.petalsearch.com/site/petalbot)",
+    "matchIndex": 0,
+    "metadata": [
+      {
+        "key": "ruleset_version",
+        "value": "29"
+      },
+      {
+        "key": "version",
+        "value": "22"
+      },
+      {
+        "key": "type",
+        "value": "customer"
+      }
+    ],
+    "sampleInterval": 1
+  },
+  {
+    "action": "block",
+    "clientASNDescription": "HWCLOUDS-AS-AP HUAWEI CLOUDS",
+    "clientAsn": "136907",
+    "clientCountryName": "SG",
+    "clientIP": "114.119.135.35",
+    "clientRefererHost": "www.alttor.com",
+    "clientRequestHTTPHost": "www.cashadvancenow.com",
+    "clientRequestHTTPMethodName": "GET",
+    "clientRequestHTTPProtocol": "HTTP/1.1",
+    "clientRequestPath": "/ActivityFeed/MyProfile/tabid/61/UserId/71613/Default.aspx",
+    "clientRequestQuery": "",
+    "contentScanObjTypes": [],
+    "datetime": "2026-01-11T17:40:56Z",
+    "ref": "ai-bots-block",
+    "rayName": "9bc633becc1635aa",
+    "ruleId": "7bd01eeccb6b420fa0be30264603a5cb",
+    "description": "Manage AI bots",
+    "rulesetId": "3e677e63d4e9479382576f3fa66279e7",
+    "source": "firewallManaged",
+    "userAgent": "Mozilla/5.0 (Linux; Android 7.0;) AppleWebKit/537.36 (KHTML, like Gecko) Mobile Safari/537.36 (compatible; PetalBot;+https://webmaster.petalsearch.com/site/petalbot)",
+    "matchIndex": 0,
+    "metadata": [
+      {
+        "key": "ruleset_version",
+        "value": "29"
+      },
+      {
+        "key": "version",
+        "value": "22"
+      },
+      {
+        "key": "type",
+        "value": "customer"
+      }
+    ],
+    "sampleInterval": 1
+  },
+  {
+    "action": "block",
+    "clientASNDescription": "AMAZON-02",
+    "clientAsn": "16509",
+    "clientCountryName": "US",
+    "clientIP": "216.73.216.14",
+    "clientRefererHost": "",
+    "clientRequestHTTPHost": "www.cashadvancenow.com",
+    "clientRequestHTTPMethodName": "GET",
+    "clientRequestHTTPProtocol": "HTTP/1.1",
+    "clientRequestPath": "/",
+    "clientRequestQuery": "",
+    "contentScanObjTypes": [],
+    "datetime": "2026-01-11T17:26:50Z",
+    "ref": "ai-bots-block",
+    "rayName": "9bc61f1519dadeef",
+    "ruleId": "7bd01eeccb6b420fa0be30264603a5cb",
+    "description": "Manage AI bots",
+    "rulesetId": "3e677e63d4e9479382576f3fa66279e7",
+    "source": "firewallManaged",
+    "userAgent": "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; Claude-SearchBot/1.0; +searchbot@anthropic.com)",
+    "matchIndex": 0,
+    "metadata": [
+      {
+        "key": "ruleset_version",
+        "value": "29"
+      },
+      {
+        "key": "version",
+        "value": "22"
+      },
+      {
+        "key": "type",
+        "value": "customer"
+      }
+    ],
+    "sampleInterval": 1
+  },
+  {
+    "action": "block",
+    "clientASNDescription": "HWCLOUDS-AS-AP HUAWEI CLOUDS",
+    "clientAsn": "136907",
+    "clientCountryName": "SG",
+    "clientIP": "114.119.143.58",
+    "clientRefererHost": "www.emanuelataurino.com",
+    "clientRequestHTTPHost": "www.cashadvancenow.com",
+    "clientRequestHTTPMethodName": "GET",
+    "clientRequestHTTPProtocol": "HTTP/1.1",
+    "clientRequestPath": "/ActivityFeed/MyProfile/tabid/61/UserId/77491/Default.aspx",
+    "clientRequestQuery": "",
+    "contentScanObjTypes": [],
+    "datetime": "2026-01-11T17:13:52Z",
+    "ref": "ai-bots-block",
+    "rayName": "9bc60c190d4c9d23",
+    "ruleId": "7bd01eeccb6b420fa0be30264603a5cb",
+    "description": "Manage AI bots",
+    "rulesetId": "3e677e63d4e9479382576f3fa66279e7",
+    "source": "firewallManaged",
+    "userAgent": "Mozilla/5.0 (Linux; Android 7.0;) AppleWebKit/537.36 (KHTML, like Gecko) Mobile Safari/537.36 (compatible; PetalBot;+https://webmaster.petalsearch.com/site/petalbot)",
+    "matchIndex": 0,
+    "metadata": [
+      {
+        "key": "ruleset_version",
+        "value": "29"
+      },
+      {
+        "key": "version",
+        "value": "22"
+      },
+      {
+        "key": "type",
+        "value": "customer"
+      }
+    ],
+    "sampleInterval": 1
+  },
+  {
+    "action": "block",
+    "clientASNDescription": "HWCLOUDS-AS-AP HUAWEI CLOUDS",
+    "clientAsn": "136907",
+    "clientCountryName": "SG",
+    "clientIP": "114.119.157.4",
+    "clientRefererHost": "appitite.org.uk",
+    "clientRequestHTTPHost": "www.cashadvancenow.com",
+    "clientRequestHTTPMethodName": "GET",
+    "clientRequestHTTPProtocol": "HTTP/1.1",
+    "clientRequestPath": "/ActivityFeed/MyProfile/tabid/61/UserId/89726/Default.aspx",
+    "clientRequestQuery": "",
+    "contentScanObjTypes": [],
+    "datetime": "2026-01-11T16:46:49Z",
+    "ref": "ai-bots-block",
+    "rayName": "9bc5e474eedd406a",
+    "ruleId": "7bd01eeccb6b420fa0be30264603a5cb",
+    "description": "Manage AI bots",
+    "rulesetId": "3e677e63d4e9479382576f3fa66279e7",
+    "source": "firewallManaged",
+    "userAgent": "Mozilla/5.0 (Linux; Android 7.0;) AppleWebKit/537.36 (KHTML, like Gecko) Mobile Safari/537.36 (compatible; PetalBot;+https://webmaster.petalsearch.com/site/petalbot)",
+    "matchIndex": 0,
+    "metadata": [
+      {
+        "key": "ruleset_version",
+        "value": "29"
+      },
+      {
+        "key": "version",
+        "value": "22"
+      },
+      {
+        "key": "type",
+        "value": "customer"
+      }
+    ],
+    "sampleInterval": 1
+  },
+  {
+    "action": "block",
+    "clientASNDescription": "HWCLOUDS-AS-AP HUAWEI CLOUDS",
+    "clientAsn": "136907",
+    "clientCountryName": "SG",
+    "clientIP": "114.119.130.14",
+    "clientRefererHost": "100ssul.com",
+    "clientRequestHTTPHost": "www.cashadvancenow.com",
+    "clientRequestHTTPMethodName": "GET",
+    "clientRequestHTTPProtocol": "HTTP/1.1",
+    "clientRequestPath": "/ActivityFeed/MyProfile/tabid/61/UserId/92267/Default.aspx",
+    "clientRequestQuery": "",
+    "contentScanObjTypes": [],
+    "datetime": "2026-01-11T16:19:46Z",
+    "ref": "ai-bots-block",
+    "rayName": "9bc5bcd72a2ff8e0",
+    "ruleId": "7bd01eeccb6b420fa0be30264603a5cb",
+    "description": "Manage AI bots",
+    "rulesetId": "3e677e63d4e9479382576f3fa66279e7",
+    "source": "firewallManaged",
+    "userAgent": "Mozilla/5.0 (Linux; Android 7.0;) AppleWebKit/537.36 (KHTML, like Gecko) Mobile Safari/537.36 (compatible; PetalBot;+https://webmaster.petalsearch.com/site/petalbot)",
+    "matchIndex": 0,
+    "metadata": [
+      {
+        "key": "ruleset_version",
+        "value": "29"
+      },
+      {
+        "key": "version",
+        "value": "22"
+      },
+      {
+        "key": "type",
+        "value": "customer"
+      }
+    ],
+    "sampleInterval": 1
+  },
+  {
+    "action": "block",
+    "clientASNDescription": "AMAZON-02",
+    "clientAsn": "16509",
+    "clientCountryName": "US",
+    "clientIP": "216.73.216.14",
+    "clientRefererHost": "",
+    "clientRequestHTTPHost": "www.cashadvancenow.com",
+    "clientRequestHTTPMethodName": "GET",
+    "clientRequestHTTPProtocol": "HTTP/2",
+    "clientRequestPath": "/sitemap.xml",
+    "clientRequestQuery": "",
+    "contentScanObjTypes": [],
+    "datetime": "2026-01-11T15:39:51Z",
+    "ref": "ai-bots-block",
+    "rayName": "9bc5825f88cb60ac",
+    "ruleId": "7bd01eeccb6b420fa0be30264603a5cb",
+    "description": "Manage AI bots",
+    "rulesetId": "3e677e63d4e9479382576f3fa66279e7",
+    "source": "firewallManaged",
+    "userAgent": "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; Claude-SearchBot/1.0; +searchbot@anthropic.com)",
+    "matchIndex": 0,
+    "metadata": [
+      {
+        "key": "ruleset_version",
+        "value": "29"
+      },
+      {
+        "key": "version",
+        "value": "22"
+      },
+      {
+        "key": "type",
+        "value": "customer"
+      }
+    ],
+    "sampleInterval": 1
+  },
+  {
+    "action": "block",
+    "clientASNDescription": "HWCLOUDS-AS-AP HUAWEI CLOUDS",
+    "clientAsn": "136907",
+    "clientCountryName": "SG",
+    "clientIP": "114.119.130.14",
+    "clientRefererHost": "noticierodeportivo.com",
+    "clientRequestHTTPHost": "www.cashadvancenow.com",
+    "clientRequestHTTPMethodName": "GET",
+    "clientRequestHTTPProtocol": "HTTP/1.1",
+    "clientRequestPath": "/ActivityFeed/MyProfile/tabid/61/UserId/99713/Default.aspx",
+    "clientRequestQuery": "",
+    "contentScanObjTypes": [],
+    "datetime": "2026-01-11T15:25:39Z",
+    "ref": "ai-bots-block",
+    "rayName": "9bc56d922d11d4a5",
+    "ruleId": "7bd01eeccb6b420fa0be30264603a5cb",
+    "description": "Manage AI bots",
+    "rulesetId": "3e677e63d4e9479382576f3fa66279e7",
+    "source": "firewallManaged",
+    "userAgent": "Mozilla/5.0 (Linux; Android 7.0;) AppleWebKit/537.36 (KHTML, like Gecko) Mobile Safari/537.36 (compatible; PetalBot;+https://webmaster.petalsearch.com/site/petalbot)",
+    "matchIndex": 0,
+    "metadata": [
+      {
+        "key": "ruleset_version",
+        "value": "29"
+      },
+      {
+        "key": "version",
+        "value": "22"
+      },
+      {
+        "key": "type",
+        "value": "customer"
+      }
+    ],
+    "sampleInterval": 1
+  },
+  {
+    "action": "block",
+    "clientASNDescription": "HWCLOUDS-AS-AP HUAWEI CLOUDS",
+    "clientAsn": "136907",
+    "clientCountryName": "SG",
+    "clientIP": "114.119.157.50",
+    "clientRefererHost": "maron.hu",
+    "clientRequestHTTPHost": "www.cashadvancenow.com",
+    "clientRequestHTTPMethodName": "GET",
+    "clientRequestHTTPProtocol": "HTTP/1.1",
+    "clientRequestPath": "/ActivityFeed/MyProfile/tabid/61/UserId/49236/Default.aspx",
+    "clientRequestQuery": "",
+    "contentScanObjTypes": [],
+    "datetime": "2026-01-11T14:58:33Z",
+    "ref": "ai-bots-block",
+    "rayName": "9bc545dfe9c5a3dd",
+    "ruleId": "7bd01eeccb6b420fa0be30264603a5cb",
+    "description": "Manage AI bots",
+    "rulesetId": "3e677e63d4e9479382576f3fa66279e7",
+    "source": "firewallManaged",
+    "userAgent": "Mozilla/5.0 (Linux; Android 7.0;) AppleWebKit/537.36 (KHTML, like Gecko) Mobile Safari/537.36 (compatible; PetalBot;+https://webmaster.petalsearch.com/site/petalbot)",
+    "matchIndex": 0,
+    "metadata": [
+      {
+        "key": "ruleset_version",
+        "value": "29"
+      },
+      {
+        "key": "version",
+        "value": "22"
+      },
+      {
+        "key": "type",
+        "value": "customer"
+      }
+    ],
+    "sampleInterval": 1
+  },
+  {
+    "action": "block",
+    "clientASNDescription": "HWCLOUDS-AS-AP HUAWEI CLOUDS",
+    "clientAsn": "136907",
+    "clientCountryName": "SG",
+    "clientIP": "114.119.130.14",
+    "clientRefererHost": "www.smartpalmtree.com",
+    "clientRequestHTTPHost": "www.cashadvancenow.com",
+    "clientRequestHTTPMethodName": "GET",
+    "clientRequestHTTPProtocol": "HTTP/1.1",
+    "clientRequestPath": "/ActivityFeed/MyProfile/tabid/61/UserId/53223/Default.aspx",
+    "clientRequestQuery": "",
+    "contentScanObjTypes": [],
+    "datetime": "2026-01-11T14:31:29Z",
+    "ref": "ai-bots-block",
+    "rayName": "9bc51e3c6bb50fe2",
+    "ruleId": "7bd01eeccb6b420fa0be30264603a5cb",
+    "description": "Manage AI bots",
+    "rulesetId": "3e677e63d4e9479382576f3fa66279e7",
+    "source": "firewallManaged",
+    "userAgent": "Mozilla/5.0 (Linux; Android 7.0;) AppleWebKit/537.36 (KHTML, like Gecko) Mobile Safari/537.36 (compatible; PetalBot;+https://webmaster.petalsearch.com/site/petalbot)",
+    "matchIndex": 0,
+    "metadata": [
+      {
+        "key": "ruleset_version",
+        "value": "29"
+      },
+      {
+        "key": "version",
+        "value": "22"
+      },
+      {
+        "key": "type",
+        "value": "customer"
+      }
+    ],
+    "sampleInterval": 1
+  },
+  {
+    "action": "block",
+    "clientASNDescription": "HWCLOUDS-AS-AP HUAWEI CLOUDS",
+    "clientAsn": "136907",
+    "clientCountryName": "SG",
+    "clientIP": "114.119.132.72",
+    "clientRefererHost": "mosqueetouba.org",
+    "clientRequestHTTPHost": "www.cashadvancenow.com",
+    "clientRequestHTTPMethodName": "GET",
+    "clientRequestHTTPProtocol": "HTTP/1.1",
+    "clientRequestPath": "/ActivityFeed/MyProfile/tabid/61/UserId/53395/Default.aspx",
+    "clientRequestQuery": "",
+    "contentScanObjTypes": [],
+    "datetime": "2026-01-11T14:06:53Z",
+    "ref": "ai-bots-block",
+    "rayName": "9bc4fa314896fd22",
+    "ruleId": "7bd01eeccb6b420fa0be30264603a5cb",
+    "description": "Manage AI bots",
+    "rulesetId": "3e677e63d4e9479382576f3fa66279e7",
+    "source": "firewallManaged",
+    "userAgent": "Mozilla/5.0 (Linux; Android 7.0;) AppleWebKit/537.36 (KHTML, like Gecko) Mobile Safari/537.36 (compatible; PetalBot;+https://webmaster.petalsearch.com/site/petalbot)",
+    "matchIndex": 0,
+    "metadata": [
+      {
+        "key": "ruleset_version",
+        "value": "29"
+      },
+      {
+        "key": "version",
+        "value": "22"
+      },
+      {
+        "key": "type",
+        "value": "customer"
+      }
+    ],
+    "sampleInterval": 1
+  },
+  {
+    "action": "block",
+    "clientASNDescription": "HWCLOUDS-AS-AP HUAWEI CLOUDS",
+    "clientAsn": "136907",
+    "clientCountryName": "SG",
+    "clientIP": "114.119.135.107",
+    "clientRefererHost": "www.economonitor.com",
+    "clientRequestHTTPHost": "www.cashadvancenow.com",
+    "clientRequestHTTPMethodName": "GET",
+    "clientRequestHTTPProtocol": "HTTP/1.1",
+    "clientRequestPath": "/ActivityFeed/MyProfile/tabid/61/UserId/53589/Default.aspx",
+    "clientRequestQuery": "",
+    "contentScanObjTypes": [],
+    "datetime": "2026-01-11T13:37:23Z",
+    "ref": "ai-bots-block",
+    "rayName": "9bc4cefb4f4ed47b",
+    "ruleId": "7bd01eeccb6b420fa0be30264603a5cb",
+    "description": "Manage AI bots",
+    "rulesetId": "3e677e63d4e9479382576f3fa66279e7",
+    "source": "firewallManaged",
+    "userAgent": "Mozilla/5.0 (Linux; Android 7.0;) AppleWebKit/537.36 (KHTML, like Gecko) Mobile Safari/537.36 (compatible; PetalBot;+https://webmaster.petalsearch.com/site/petalbot)",
+    "matchIndex": 0,
+    "metadata": [
+      {
+        "key": "ruleset_version",
+        "value": "29"
+      },
+      {
+        "key": "version",
+        "value": "22"
+      },
+      {
+        "key": "type",
+        "value": "customer"
+      }
+    ],
+    "sampleInterval": 1
+  },
+  {
+    "action": "block",
+    "clientASNDescription": "AMAZON-02",
+    "clientAsn": "16509",
+    "clientCountryName": "US",
+    "clientIP": "216.73.216.14",
+    "clientRefererHost": "",
+    "clientRequestHTTPHost": "www.cashadvancenow.com",
+    "clientRequestHTTPMethodName": "GET",
+    "clientRequestHTTPProtocol": "HTTP/2",
+    "clientRequestPath": "/ActivityFeed/MyProfile/tabid/61/UserId/107240/Default.aspx",
+    "clientRequestQuery": "",
+    "contentScanObjTypes": [],
+    "datetime": "2026-01-11T13:31:11Z",
+    "ref": "ai-bots-block",
+    "rayName": "9bc4c5e1dfacebb8",
+    "ruleId": "7bd01eeccb6b420fa0be30264603a5cb",
+    "description": "Manage AI bots",
+    "rulesetId": "3e677e63d4e9479382576f3fa66279e7",
+    "source": "firewallManaged",
+    "userAgent": "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; Claude-SearchBot/1.0; +searchbot@anthropic.com)",
+    "matchIndex": 0,
+    "metadata": [
+      {
+        "key": "ruleset_version",
+        "value": "29"
+      },
+      {
+        "key": "version",
+        "value": "22"
+      },
+      {
+        "key": "type",
+        "value": "customer"
+      }
+    ],
+    "sampleInterval": 1
+  },
+  {
+    "action": "block",
+    "clientASNDescription": "HWCLOUDS-AS-AP HUAWEI CLOUDS",
+    "clientAsn": "136907",
+    "clientCountryName": "SG",
+    "clientIP": "114.119.157.50",
+    "clientRefererHost": "www.scanbc.com",
+    "clientRequestHTTPHost": "www.cashadvancenow.com",
+    "clientRequestHTTPMethodName": "GET",
+    "clientRequestHTTPProtocol": "HTTP/1.1",
+    "clientRequestPath": "/ActivityFeed/MyProfile/tabid/61/UserId/56143/Default.aspx",
+    "clientRequestQuery": "",
+    "contentScanObjTypes": [],
+    "datetime": "2026-01-11T13:10:19Z",
+    "ref": "ai-bots-block",
+    "rayName": "9bc4a753dd9c9fb5",
+    "ruleId": "7bd01eeccb6b420fa0be30264603a5cb",
+    "description": "Manage AI bots",
+    "rulesetId": "3e677e63d4e9479382576f3fa66279e7",
+    "source": "firewallManaged",
+    "userAgent": "Mozilla/5.0 (Linux; Android 7.0;) AppleWebKit/537.36 (KHTML, like Gecko) Mobile Safari/537.36 (compatible; PetalBot;+https://webmaster.petalsearch.com/site/petalbot)",
+    "matchIndex": 0,
+    "metadata": [
+      {
+        "key": "ruleset_version",
+        "value": "29"
+      },
+      {
+        "key": "version",
+        "value": "22"
+      },
+      {
+        "key": "type",
+        "value": "customer"
+      }
+    ],
+    "sampleInterval": 1
+  },
+  {
+    "action": "block",
+    "clientASNDescription": "HWCLOUDS-AS-AP HUAWEI CLOUDS",
+    "clientAsn": "136907",
+    "clientCountryName": "SG",
+    "clientIP": "114.119.135.35",
+    "clientRefererHost": "enzocardente.it",
+    "clientRequestHTTPHost": "www.cashadvancenow.com",
+    "clientRequestHTTPMethodName": "GET",
+    "clientRequestHTTPProtocol": "HTTP/1.1",
+    "clientRequestPath": "/ActivityFeed/MyProfile/tabid/61/UserId/56642/Default.aspx",
+    "clientRequestQuery": "",
+    "contentScanObjTypes": [],
+    "datetime": "2026-01-11T12:43:18Z",
+    "ref": "ai-bots-block",
+    "rayName": "9bc47fbda80a6bd3",
+    "ruleId": "7bd01eeccb6b420fa0be30264603a5cb",
+    "description": "Manage AI bots",
+    "rulesetId": "3e677e63d4e9479382576f3fa66279e7",
+    "source": "firewallManaged",
+    "userAgent": "Mozilla/5.0 (Linux; Android 7.0;) AppleWebKit/537.36 (KHTML, like Gecko) Mobile Safari/537.36 (compatible; PetalBot;+https://webmaster.petalsearch.com/site/petalbot)",
+    "matchIndex": 0,
+    "metadata": [
+      {
+        "key": "ruleset_version",
+        "value": "29"
+      },
+      {
+        "key": "version",
+        "value": "22"
+      },
+      {
+        "key": "type",
+        "value": "customer"
+      }
+    ],
+    "sampleInterval": 1
+  },
+  {
+    "action": "block",
+    "clientASNDescription": "AMAZON-02",
+    "clientAsn": "16509",
+    "clientCountryName": "US",
+    "clientIP": "216.73.216.14",
+    "clientRefererHost": "",
+    "clientRequestHTTPHost": "www.cashadvancenow.com",
+    "clientRequestHTTPMethodName": "GET",
+    "clientRequestHTTPProtocol": "HTTP/2",
+    "clientRequestPath": "/ActivityFeed/MyProfile/tabid/61/UserId/107240/Default.aspx",
+    "clientRequestQuery": "",
+    "contentScanObjTypes": [],
+    "datetime": "2026-01-11T12:26:21Z",
+    "ref": "ai-bots-block",
+    "rayName": "9bc466ef7fe2f859",
+    "ruleId": "7bd01eeccb6b420fa0be30264603a5cb",
+    "description": "Manage AI bots",
+    "rulesetId": "3e677e63d4e9479382576f3fa66279e7",
+    "source": "firewallManaged",
+    "userAgent": "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; Claude-SearchBot/1.0; +searchbot@anthropic.com)",
+    "matchIndex": 0,
+    "metadata": [
+      {
+        "key": "ruleset_version",
+        "value": "29"
+      },
+      {
+        "key": "version",
+        "value": "22"
+      },
+      {
+        "key": "type",
+        "value": "customer"
+      }
+    ],
+    "sampleInterval": 1
+  },
+  {
+    "action": "block",
+    "clientASNDescription": "HWCLOUDS-AS-AP HUAWEI CLOUDS",
+    "clientAsn": "136907",
+    "clientCountryName": "SG",
+    "clientIP": "114.119.135.107",
+    "clientRefererHost": "flowersforgirls.com",
+    "clientRequestHTTPHost": "www.cashadvancenow.com",
+    "clientRequestHTTPMethodName": "GET",
+    "clientRequestHTTPProtocol": "HTTP/1.1",
+    "clientRequestPath": "/ActivityFeed/MyProfile/tabid/61/UserId/58800/Default.aspx",
+    "clientRequestQuery": "",
+    "contentScanObjTypes": [],
+    "datetime": "2026-01-11T12:16:12Z",
+    "ref": "ai-bots-block",
+    "rayName": "9bc4580eeb1d81a8",
+    "ruleId": "7bd01eeccb6b420fa0be30264603a5cb",
+    "description": "Manage AI bots",
+    "rulesetId": "3e677e63d4e9479382576f3fa66279e7",
+    "source": "firewallManaged",
+    "userAgent": "Mozilla/5.0 (Linux; Android 7.0;) AppleWebKit/537.36 (KHTML, like Gecko) Mobile Safari/537.36 (compatible; PetalBot;+https://webmaster.petalsearch.com/site/petalbot)",
+    "matchIndex": 0,
+    "metadata": [
+      {
+        "key": "ruleset_version",
+        "value": "29"
+      },
+      {
+        "key": "version",
+        "value": "22"
+      },
+      {
+        "key": "type",
+        "value": "customer"
+      }
+    ],
+    "sampleInterval": 1
+  },
+  {
+    "action": "managed_challenge",
+    "clientASNDescription": "MICROSOFT-CORP-MSN-AS-BLOCK",
+    "clientAsn": "8075",
+    "clientCountryName": "AU",
+    "clientIP": "68.218.117.11",
+    "clientRefererHost": "www.google.fr",
+    "clientRequestHTTPHost": "cashadvancenow.com",
+    "clientRequestHTTPMethodName": "GET",
+    "clientRequestHTTPProtocol": "HTTP/1.1",
+    "clientRequestPath": "/wp-login.php",
+    "clientRequestQuery": "?redirect_to=https%3A%2F%2Fcashadvancenow.com%2Fwp-admin%2Findex.php&reauth=1",
+    "contentScanObjTypes": [],
+    "datetime": "2026-01-11T12:13:25Z",
+    "ref": "",
+    "rayName": "9bc453f9ba46aad1",
+    "ruleId": "5c7942bcc6e1435b9742a6bd51c93a65",
+    "description": "CHALLENGE | wp-login",
+    "rulesetId": "40fb7b3f708a40648e03fbedc4c4550d",
+    "source": "firewallCustom",
+    "userAgent": "Mozilla/5.0 (Linux; Android 13; SM-G991U) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Mobile Safari/537.36",
+    "matchIndex": 0,
+    "metadata": [
+      {
+        "key": "ruleset_version",
+        "value": "9"
+      },
+      {
+        "key": "version",
+        "value": "3"
+      },
+      {
+        "key": "type",
+        "value": "customer"
+      }
+    ],
+    "sampleInterval": 1
+  },
+  {
+    "action": "managed_challenge",
+    "clientASNDescription": "MICROSOFT-CORP-MSN-AS-BLOCK",
+    "clientAsn": "8075",
+    "clientCountryName": "AU",
+    "clientIP": "68.218.117.11",
+    "clientRefererHost": "www.bing.com",
+    "clientRequestHTTPHost": "cashadvancenow.com",
+    "clientRequestHTTPMethodName": "GET",
+    "clientRequestHTTPProtocol": "HTTP/1.1",
+    "clientRequestPath": "/wp-login.php",
+    "clientRequestQuery": "?redirect_to=https%3A%2F%2Fcashadvancenow.com%2Fwp-admin%2Fnetwork%2Findex.php&reauth=1",
+    "contentScanObjTypes": [],
+    "datetime": "2026-01-11T12:13:10Z",
+    "ref": "",
+    "rayName": "9bc45399fcfa6c65",
+    "ruleId": "5c7942bcc6e1435b9742a6bd51c93a65",
+    "description": "CHALLENGE | wp-login",
+    "rulesetId": "40fb7b3f708a40648e03fbedc4c4550d",
+    "source": "firewallCustom",
+    "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_1_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.1 Mobile/15E148 Safari/604.1",
+    "matchIndex": 0,
+    "metadata": [
+      {
+        "key": "ruleset_version",
+        "value": "9"
+      },
+      {
+        "key": "version",
+        "value": "3"
+      },
+      {
+        "key": "type",
+        "value": "customer"
+      }
+    ],
+    "sampleInterval": 1
+  },
+  {
+    "action": "block",
+    "clientASNDescription": "HWCLOUDS-AS-AP HUAWEI CLOUDS",
+    "clientAsn": "136907",
+    "clientCountryName": "SG",
+    "clientIP": "114.119.157.50",
+    "clientRefererHost": "filtrocapacitivo.com.br",
+    "clientRequestHTTPHost": "www.cashadvancenow.com",
+    "clientRequestHTTPMethodName": "GET",
+    "clientRequestHTTPProtocol": "HTTP/1.1",
+    "clientRequestPath": "/ActivityFeed/MyProfile/tabid/61/UserId/59374/Default.aspx",
+    "clientRequestQuery": "",
+    "contentScanObjTypes": [],
+    "datetime": "2026-01-11T11:49:11Z",
+    "ref": "ai-bots-block",
+    "rayName": "9bc4307bfe0481fc",
+    "ruleId": "7bd01eeccb6b420fa0be30264603a5cb",
+    "description": "Manage AI bots",
+    "rulesetId": "3e677e63d4e9479382576f3fa66279e7",
+    "source": "firewallManaged",
+    "userAgent": "Mozilla/5.0 (Linux; Android 7.0;) AppleWebKit/537.36 (KHTML, like Gecko) Mobile Safari/537.36 (compatible; PetalBot;+https://webmaster.petalsearch.com/site/petalbot)",
+    "matchIndex": 0,
+    "metadata": [
+      {
+        "key": "ruleset_version",
+        "value": "29"
+      },
+      {
+        "key": "version",
+        "value": "22"
+      },
+      {
+        "key": "type",
+        "value": "customer"
+      }
+    ],
+    "sampleInterval": 1
+  },
+  {
+    "action": "managed_challenge",
+    "clientASNDescription": "COD",
+    "clientAsn": "215930",
+    "clientCountryName": "LT",
+    "clientIP": "62.60.130.210",
+    "clientRefererHost": "",
+    "clientRequestHTTPHost": "cashadvancenow.com",
+    "clientRequestHTTPMethodName": "GET",
+    "clientRequestHTTPProtocol": "HTTP/1.1",
+    "clientRequestPath": "/wp-login.php",
+    "clientRequestQuery": "",
+    "contentScanObjTypes": [],
+    "datetime": "2026-01-11T11:23:06Z",
+    "ref": "",
+    "rayName": "9bc40a47ab0e5d64",
+    "ruleId": "5c7942bcc6e1435b9742a6bd51c93a65",
+    "description": "CHALLENGE | wp-login",
+    "rulesetId": "40fb7b3f708a40648e03fbedc4c4550d",
+    "source": "firewallCustom",
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.6099.130 Safari/537.36",
+    "matchIndex": 0,
+    "metadata": [
+      {
+        "key": "ruleset_version",
+        "value": "9"
+      },
+      {
+        "key": "version",
+        "value": "3"
+      },
+      {
+        "key": "type",
+        "value": "customer"
+      }
+    ],
+    "sampleInterval": 1
+  },
+  {
+    "action": "managed_challenge",
+    "clientASNDescription": "COD",
+    "clientAsn": "215930",
+    "clientCountryName": "LT",
+    "clientIP": "62.60.130.210",
+    "clientRefererHost": "",
+    "clientRequestHTTPHost": "cashadvancenow.com",
+    "clientRequestHTTPMethodName": "GET",
+    "clientRequestHTTPProtocol": "HTTP/1.1",
+    "clientRequestPath": "/wp-login.php",
+    "clientRequestQuery": "",
+    "contentScanObjTypes": [],
+    "datetime": "2026-01-11T11:23:06Z",
+    "ref": "",
+    "rayName": "9bc40a477a3ae4e5",
+    "ruleId": "5c7942bcc6e1435b9742a6bd51c93a65",
+    "description": "CHALLENGE | wp-login",
+    "rulesetId": "40fb7b3f708a40648e03fbedc4c4550d",
+    "source": "firewallCustom",
+    "userAgent": "Mozilla/5.0 (X11; Linux x86_64) Gecko/20100101 Firefox/121.0",
+    "matchIndex": 0,
+    "metadata": [
+      {
+        "key": "ruleset_version",
+        "value": "9"
+      },
+      {
+        "key": "version",
+        "value": "3"
+      },
+      {
+        "key": "type",
+        "value": "customer"
+      }
+    ],
+    "sampleInterval": 1
+  },
+  {
+    "action": "block",
+    "clientASNDescription": "HWCLOUDS-AS-AP HUAWEI CLOUDS",
+    "clientAsn": "136907",
+    "clientCountryName": "SG",
+    "clientIP": "114.119.135.107",
+    "clientRefererHost": "www.ernesto-herrera.com",
+    "clientRequestHTTPHost": "www.cashadvancenow.com",
+    "clientRequestHTTPMethodName": "GET",
+    "clientRequestHTTPProtocol": "HTTP/1.1",
+    "clientRequestPath": "/ActivityFeed/MyProfile/tabid/61/UserId/59750/Default.aspx",
+    "clientRequestQuery": "",
+    "contentScanObjTypes": [],
+    "datetime": "2026-01-11T11:22:05Z",
+    "ref": "ai-bots-block",
+    "rayName": "9bc408cb39d7a5e3",
+    "ruleId": "7bd01eeccb6b420fa0be30264603a5cb",
+    "description": "Manage AI bots",
+    "rulesetId": "3e677e63d4e9479382576f3fa66279e7",
+    "source": "firewallManaged",
+    "userAgent": "Mozilla/5.0 (Linux; Android 7.0;) AppleWebKit/537.36 (KHTML, like Gecko) Mobile Safari/537.36 (compatible; PetalBot;+https://webmaster.petalsearch.com/site/petalbot)",
+    "matchIndex": 0,
+    "metadata": [
+      {
+        "key": "ruleset_version",
+        "value": "29"
+      },
+      {
+        "key": "version",
+        "value": "22"
+      },
+      {
+        "key": "type",
+        "value": "customer"
+      }
+    ],
+    "sampleInterval": 1
+  },
+  {
+    "action": "managed_challenge",
+    "clientASNDescription": "HOSTBALTIC",
+    "clientAsn": "209605",
+    "clientCountryName": "LT",
+    "clientIP": "141.98.11.23",
+    "clientRefererHost": "www.google.com",
+    "clientRequestHTTPHost": "cashadvancenow.com",
+    "clientRequestHTTPMethodName": "GET",
+    "clientRequestHTTPProtocol": "HTTP/1.1",
+    "clientRequestPath": "/wp-login.php",
+    "clientRequestQuery": "",
+    "contentScanObjTypes": [],
+    "datetime": "2026-01-11T11:14:22Z",
+    "ref": "",
+    "rayName": "9bc3fd784a9ce4e3",
+    "ruleId": "5c7942bcc6e1435b9742a6bd51c93a65",
+    "description": "CHALLENGE | wp-login",
+    "rulesetId": "40fb7b3f708a40648e03fbedc4c4550d",
+    "source": "firewallCustom",
+    "userAgent": "Mozilla/5.0 (Windows NT 11.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36",
+    "matchIndex": 0,
+    "metadata": [
+      {
+        "key": "ruleset_version",
+        "value": "9"
+      },
+      {
+        "key": "version",
+        "value": "3"
+      },
+      {
+        "key": "type",
+        "value": "customer"
+      }
+    ],
+    "sampleInterval": 1
+  },
+  {
+    "action": "managed_challenge",
+    "clientASNDescription": "HOSTBALTIC",
+    "clientAsn": "209605",
+    "clientCountryName": "LT",
+    "clientIP": "141.98.11.23",
+    "clientRefererHost": "wordpress.org",
+    "clientRequestHTTPHost": "cashadvancenow.com",
+    "clientRequestHTTPMethodName": "GET",
+    "clientRequestHTTPProtocol": "HTTP/1.1",
+    "clientRequestPath": "/wp-login.php",
+    "clientRequestQuery": "",
+    "contentScanObjTypes": [],
+    "datetime": "2026-01-11T11:14:22Z",
+    "ref": "",
+    "rayName": "9bc3fd781d24b801",
+    "ruleId": "5c7942bcc6e1435b9742a6bd51c93a65",
+    "description": "CHALLENGE | wp-login",
+    "rulesetId": "40fb7b3f708a40648e03fbedc4c4550d",
+    "source": "firewallCustom",
+    "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+    "matchIndex": 0,
+    "metadata": [
+      {
+        "key": "ruleset_version",
+        "value": "9"
+      },
+      {
+        "key": "version",
+        "value": "3"
+      },
+      {
+        "key": "type",
+        "value": "customer"
+      }
+    ],
+    "sampleInterval": 1
+  },
+  {
+    "action": "block",
+    "clientASNDescription": "HWCLOUDS-AS-AP HUAWEI CLOUDS",
+    "clientAsn": "136907",
+    "clientCountryName": "SG",
+    "clientIP": "114.119.157.50",
+    "clientRefererHost": "altes-lagerhaus-windheim.de",
+    "clientRequestHTTPHost": "www.cashadvancenow.com",
+    "clientRequestHTTPMethodName": "GET",
+    "clientRequestHTTPProtocol": "HTTP/1.1",
+    "clientRequestPath": "/ActivityFeed/MyProfile/tabid/61/UserId/600207/Default.aspx",
+    "clientRequestQuery": "",
+    "contentScanObjTypes": [],
+    "datetime": "2026-01-11T10:55:06Z",
+    "ref": "ai-bots-block",
+    "rayName": "9bc3e14098835ce7",
+    "ruleId": "7bd01eeccb6b420fa0be30264603a5cb",
+    "description": "Manage AI bots",
+    "rulesetId": "3e677e63d4e9479382576f3fa66279e7",
+    "source": "firewallManaged",
+    "userAgent": "Mozilla/5.0 (Linux; Android 7.0;) AppleWebKit/537.36 (KHTML, like Gecko) Mobile Safari/537.36 (compatible; PetalBot;+https://webmaster.petalsearch.com/site/petalbot)",
+    "matchIndex": 0,
+    "metadata": [
+      {
+        "key": "ruleset_version",
+        "value": "29"
+      },
+      {
+        "key": "version",
+        "value": "22"
+      },
+      {
+        "key": "type",
+        "value": "customer"
+      }
+    ],
+    "sampleInterval": 1
+  },
+  {
+    "action": "block",
+    "clientASNDescription": "HWCLOUDS-AS-AP HUAWEI CLOUDS",
+    "clientAsn": "136907",
+    "clientCountryName": "SG",
+    "clientIP": "114.119.132.72",
+    "clientRefererHost": "jousseart.com",
+    "clientRequestHTTPHost": "www.cashadvancenow.com",
+    "clientRequestHTTPMethodName": "GET",
+    "clientRequestHTTPProtocol": "HTTP/1.1",
+    "clientRequestPath": "/ActivityFeed/MyProfile/tabid/61/UserId/600432/Default.aspx",
+    "clientRequestQuery": "",
+    "contentScanObjTypes": [],
+    "datetime": "2026-01-11T10:30:41Z",
+    "ref": "ai-bots-block",
+    "rayName": "9bc3bd7d3cb0ce6f",
+    "ruleId": "7bd01eeccb6b420fa0be30264603a5cb",
+    "description": "Manage AI bots",
+    "rulesetId": "3e677e63d4e9479382576f3fa66279e7",
+    "source": "firewallManaged",
+    "userAgent": "Mozilla/5.0 (Linux; Android 7.0;) AppleWebKit/537.36 (KHTML, like Gecko) Mobile Safari/537.36 (compatible; PetalBot;+https://webmaster.petalsearch.com/site/petalbot)",
+    "matchIndex": 0,
+    "metadata": [
+      {
+        "key": "ruleset_version",
+        "value": "29"
+      },
+      {
+        "key": "version",
+        "value": "22"
+      },
+      {
+        "key": "type",
+        "value": "customer"
+      }
+    ],
+    "sampleInterval": 1
+  },
+  {
+    "action": "block",
+    "clientASNDescription": "HWCLOUDS-AS-AP HUAWEI CLOUDS",
+    "clientAsn": "136907",
+    "clientCountryName": "SG",
+    "clientIP": "114.119.130.14",
+    "clientRefererHost": "keypackingcompany.com",
+    "clientRequestHTTPHost": "www.cashadvancenow.com",
+    "clientRequestHTTPMethodName": "GET",
+    "clientRequestHTTPProtocol": "HTTP/1.1",
+    "clientRequestPath": "/ActivityFeed/MyProfile/tabid/61/UserId/600514/Default.aspx",
+    "clientRequestQuery": "",
+    "contentScanObjTypes": [],
+    "datetime": "2026-01-11T10:06:21Z",
+    "ref": "ai-bots-block",
+    "rayName": "9bc399d8bdc297fb",
+    "ruleId": "7bd01eeccb6b420fa0be30264603a5cb",
+    "description": "Manage AI bots",
+    "rulesetId": "3e677e63d4e9479382576f3fa66279e7",
+    "source": "firewallManaged",
+    "userAgent": "Mozilla/5.0 (Linux; Android 7.0;) AppleWebKit/537.36 (KHTML, like Gecko) Mobile Safari/537.36 (compatible; PetalBot;+https://webmaster.petalsearch.com/site/petalbot)",
+    "matchIndex": 0,
+    "metadata": [
+      {
+        "key": "ruleset_version",
+        "value": "29"
+      },
+      {
+        "key": "version",
+        "value": "22"
+      },
+      {
+        "key": "type",
+        "value": "customer"
+      }
+    ],
+    "sampleInterval": 1
+  },
+  {
+    "action": "block",
+    "clientASNDescription": "HWCLOUDS-AS-AP HUAWEI CLOUDS",
+    "clientAsn": "136907",
+    "clientCountryName": "SG",
+    "clientIP": "114.119.130.14",
+    "clientRefererHost": "raincloak.com",
+    "clientRequestHTTPHost": "www.cashadvancenow.com",
+    "clientRequestHTTPMethodName": "GET",
+    "clientRequestHTTPProtocol": "HTTP/1.1",
+    "clientRequestPath": "/ActivityFeed/MyProfile/tabid/61/UserId/67756/Default.aspx",
+    "clientRequestQuery": "",
+    "contentScanObjTypes": [],
+    "datetime": "2026-01-11T09:42:01Z",
+    "ref": "ai-bots-block",
+    "rayName": "9bc376352c209c95",
+    "ruleId": "7bd01eeccb6b420fa0be30264603a5cb",
+    "description": "Manage AI bots",
+    "rulesetId": "3e677e63d4e9479382576f3fa66279e7",
+    "source": "firewallManaged",
+    "userAgent": "Mozilla/5.0 (Linux; Android 7.0;) AppleWebKit/537.36 (KHTML, like Gecko) Mobile Safari/537.36 (compatible; PetalBot;+https://webmaster.petalsearch.com/site/petalbot)",
+    "matchIndex": 0,
+    "metadata": [
+      {
+        "key": "ruleset_version",
+        "value": "29"
+      },
+      {
+        "key": "version",
+        "value": "22"
+      },
+      {
+        "key": "type",
+        "value": "customer"
+      }
+    ],
+    "sampleInterval": 1
+  },
+  {
+    "action": "block",
+    "clientASNDescription": "HWCLOUDS-AS-AP HUAWEI CLOUDS",
+    "clientAsn": "136907",
+    "clientCountryName": "SG",
+    "clientIP": "114.119.132.72",
+    "clientRefererHost": "craig.bonsignore.com",
+    "clientRequestHTTPHost": "www.cashadvancenow.com",
+    "clientRequestHTTPMethodName": "GET",
+    "clientRequestHTTPProtocol": "HTTP/1.1",
+    "clientRequestPath": "/ActivityFeed/MyProfile/tabid/61/UserId/84574/Default.aspx",
+    "clientRequestQuery": "",
+    "contentScanObjTypes": [],
+    "datetime": "2026-01-11T09:17:41Z",
+    "ref": "ai-bots-block",
+    "rayName": "9bc3528e0ee55542",
+    "ruleId": "7bd01eeccb6b420fa0be30264603a5cb",
+    "description": "Manage AI bots",
+    "rulesetId": "3e677e63d4e9479382576f3fa66279e7",
+    "source": "firewallManaged",
+    "userAgent": "Mozilla/5.0 (Linux; Android 7.0;) AppleWebKit/537.36 (KHTML, like Gecko) Mobile Safari/537.36 (compatible; PetalBot;+https://webmaster.petalsearch.com/site/petalbot)",
+    "matchIndex": 0,
+    "metadata": [
+      {
+        "key": "ruleset_version",
+        "value": "29"
+      },
+      {
+        "key": "version",
+        "value": "22"
+      },
+      {
+        "key": "type",
+        "value": "customer"
+      }
+    ],
+    "sampleInterval": 1
+  },
+  {
+    "action": "block",
+    "clientASNDescription": "HWCLOUDS-AS-AP HUAWEI CLOUDS",
+    "clientAsn": "136907",
+    "clientCountryName": "SG",
+    "clientIP": "114.119.132.72",
+    "clientRefererHost": "alt.crt-racing.de",
+    "clientRequestHTTPHost": "www.cashadvancenow.com",
+    "clientRequestHTTPMethodName": "GET",
+    "clientRequestHTTPProtocol": "HTTP/1.1",
+    "clientRequestPath": "/ActivityFeed/MyProfile/tabid/61/UserId/91995/Default.aspx",
+    "clientRequestQuery": "",
+    "contentScanObjTypes": [],
+    "datetime": "2026-01-11T08:53:24Z",
+    "ref": "ai-bots-block",
+    "rayName": "9bc32efbdb79fd37",
+    "ruleId": "7bd01eeccb6b420fa0be30264603a5cb",
+    "description": "Manage AI bots",
+    "rulesetId": "3e677e63d4e9479382576f3fa66279e7",
+    "source": "firewallManaged",
+    "userAgent": "Mozilla/5.0 (Linux; Android 7.0;) AppleWebKit/537.36 (KHTML, like Gecko) Mobile Safari/537.36 (compatible; PetalBot;+https://webmaster.petalsearch.com/site/petalbot)",
+    "matchIndex": 0,
+    "metadata": [
+      {
+        "key": "ruleset_version",
+        "value": "29"
+      },
+      {
+        "key": "version",
+        "value": "22"
+      },
+      {
+        "key": "type",
+        "value": "customer"
+      }
+    ],
+    "sampleInterval": 1
+  },
+  {
+    "action": "block",
+    "clientASNDescription": "HWCLOUDS-AS-AP HUAWEI CLOUDS",
+    "clientAsn": "136907",
+    "clientCountryName": "SG",
+    "clientIP": "114.119.157.4",
+    "clientRefererHost": "www.podwyzszeniakrzyzawodzislawsl.pl",
+    "clientRequestHTTPHost": "www.cashadvancenow.com",
+    "clientRequestHTTPMethodName": "GET",
+    "clientRequestHTTPProtocol": "HTTP/1.1",
+    "clientRequestPath": "/ActivityFeed/MyProfile/tabid/61/UserId/95216/Default.aspx",
+    "clientRequestQuery": "",
+    "contentScanObjTypes": [],
+    "datetime": "2026-01-11T08:29:01Z",
+    "ref": "ai-bots-block",
+    "rayName": "9bc30b454cd33e1e",
+    "ruleId": "7bd01eeccb6b420fa0be30264603a5cb",
+    "description": "Manage AI bots",
+    "rulesetId": "3e677e63d4e9479382576f3fa66279e7",
+    "source": "firewallManaged",
+    "userAgent": "Mozilla/5.0 (Linux; Android 7.0;) AppleWebKit/537.36 (KHTML, like Gecko) Mobile Safari/537.36 (compatible; PetalBot;+https://webmaster.petalsearch.com/site/petalbot)",
+    "matchIndex": 0,
+    "metadata": [
+      {
+        "key": "ruleset_version",
+        "value": "29"
+      },
+      {
+        "key": "version",
+        "value": "22"
+      },
+      {
+        "key": "type",
+        "value": "customer"
+      }
+    ],
+    "sampleInterval": 1
+  },
+  {
+    "action": "block",
+    "clientASNDescription": "HWCLOUDS-AS-AP HUAWEI CLOUDS",
+    "clientAsn": "136907",
+    "clientCountryName": "SG",
+    "clientIP": "114.119.157.50",
+    "clientRefererHost": "www.edoglobalorganization.org",
+    "clientRequestHTTPHost": "www.cashadvancenow.com",
+    "clientRequestHTTPMethodName": "GET",
+    "clientRequestHTTPProtocol": "HTTP/1.1",
+    "clientRequestPath": "/ActivityFeed/MyProfile/tabid/61/UserId/60407/Default.aspx",
+    "clientRequestQuery": "",
+    "contentScanObjTypes": [],
+    "datetime": "2026-01-11T08:04:41Z",
+    "ref": "ai-bots-block",
+    "rayName": "9bc2e79f2b46a742",
+    "ruleId": "7bd01eeccb6b420fa0be30264603a5cb",
+    "description": "Manage AI bots",
+    "rulesetId": "3e677e63d4e9479382576f3fa66279e7",
+    "source": "firewallManaged",
+    "userAgent": "Mozilla/5.0 (Linux; Android 7.0;) AppleWebKit/537.36 (KHTML, like Gecko) Mobile Safari/537.36 (compatible; PetalBot;+https://webmaster.petalsearch.com/site/petalbot)",
+    "matchIndex": 0,
+    "metadata": [
+      {
+        "key": "ruleset_version",
+        "value": "29"
+      },
+      {
+        "key": "version",
+        "value": "22"
+      },
+      {
+        "key": "type",
+        "value": "customer"
+      }
+    ],
+    "sampleInterval": 1
+  },
+  {
+    "action": "managed_challenge",
+    "clientASNDescription": "DIGITALOCEAN-ASN",
+    "clientAsn": "14061",
+    "clientCountryName": "DE",
+    "clientIP": "164.90.236.196",
+    "clientRefererHost": "",
+    "clientRequestHTTPHost": "cashadvancenow.com",
+    "clientRequestHTTPMethodName": "GET",
+    "clientRequestHTTPProtocol": "HTTP/1.1",
+    "clientRequestPath": "/wp-login.php",
+    "clientRequestQuery": "",
+    "contentScanObjTypes": [],
+    "datetime": "2026-01-11T08:01:05Z",
+    "ref": "",
+    "rayName": "9bc2e256ce76d2eb",
+    "ruleId": "5c7942bcc6e1435b9742a6bd51c93a65",
+    "description": "CHALLENGE | wp-login",
+    "rulesetId": "40fb7b3f708a40648e03fbedc4c4550d",
+    "source": "firewallCustom",
+    "userAgent": "Mozilla/5.0",
+    "matchIndex": 0,
+    "metadata": [
+      {
+        "key": "ruleset_version",
+        "value": "9"
+      },
+      {
+        "key": "version",
+        "value": "3"
+      },
+      {
+        "key": "type",
+        "value": "customer"
+      }
+    ],
+    "sampleInterval": 1
+  },
+  {
+    "action": "block",
+    "clientASNDescription": "HWCLOUDS-AS-AP HUAWEI CLOUDS",
+    "clientAsn": "136907",
+    "clientCountryName": "SG",
+    "clientIP": "114.119.135.35",
+    "clientRefererHost": "www100.com",
+    "clientRequestHTTPHost": "www.cashadvancenow.com",
+    "clientRequestHTTPMethodName": "GET",
+    "clientRequestHTTPProtocol": "HTTP/1.1",
+    "clientRequestPath": "/ActivityFeed/MyProfile/tabid/61/UserId/65310/Default.aspx",
+    "clientRequestQuery": "",
+    "contentScanObjTypes": [],
+    "datetime": "2026-01-11T07:40:23Z",
+    "ref": "ai-bots-block",
+    "rayName": "9bc2c409da8ffd8b",
+    "ruleId": "7bd01eeccb6b420fa0be30264603a5cb",
+    "description": "Manage AI bots",
+    "rulesetId": "3e677e63d4e9479382576f3fa66279e7",
+    "source": "firewallManaged",
+    "userAgent": "Mozilla/5.0 (Linux; Android 7.0;) AppleWebKit/537.36 (KHTML, like Gecko) Mobile Safari/537.36 (compatible; PetalBot;+https://webmaster.petalsearch.com/site/petalbot)",
+    "matchIndex": 0,
+    "metadata": [
+      {
+        "key": "ruleset_version",
+        "value": "29"
+      },
+      {
+        "key": "version",
+        "value": "22"
+      },
+      {
+        "key": "type",
+        "value": "customer"
+      }
+    ],
+    "sampleInterval": 1
+  },
+  {
+    "action": "block",
+    "clientASNDescription": "AMAZON-02",
+    "clientAsn": "16509",
+    "clientCountryName": "US",
+    "clientIP": "216.73.216.14",
+    "clientRefererHost": "",
+    "clientRequestHTTPHost": "www.cashadvancenow.com",
+    "clientRequestHTTPMethodName": "GET",
+    "clientRequestHTTPProtocol": "HTTP/2",
+    "clientRequestPath": "/ActivityFeed/MyProfile/tabid/61/UserId/207355/Default.aspx",
+    "clientRequestQuery": "",
+    "contentScanObjTypes": [],
+    "datetime": "2026-01-11T07:32:25Z",
+    "ref": "ai-bots-block",
+    "rayName": "9bc2b85ab9b61f93",
+    "ruleId": "7bd01eeccb6b420fa0be30264603a5cb",
+    "description": "Manage AI bots",
+    "rulesetId": "3e677e63d4e9479382576f3fa66279e7",
+    "source": "firewallManaged",
+    "userAgent": "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; Claude-SearchBot/1.0; +searchbot@anthropic.com)",
+    "matchIndex": 0,
+    "metadata": [
+      {
+        "key": "ruleset_version",
+        "value": "29"
+      },
+      {
+        "key": "version",
+        "value": "22"
+      },
+      {
+        "key": "type",
+        "value": "customer"
+      }
+    ],
+    "sampleInterval": 1
+  },
+  {
+    "action": "block",
+    "clientASNDescription": "AMAZON-02",
+    "clientAsn": "16509",
+    "clientCountryName": "US",
+    "clientIP": "216.73.216.14",
+    "clientRefererHost": "",
+    "clientRequestHTTPHost": "www.cashadvancenow.com",
+    "clientRequestHTTPMethodName": "GET",
+    "clientRequestHTTPProtocol": "HTTP/2",
+    "clientRequestPath": "/ActivityFeed/MyProfile/tabid/61/UserId/107240/Default.aspx",
+    "clientRequestQuery": "",
+    "contentScanObjTypes": [],
+    "datetime": "2026-01-11T07:20:30Z",
+    "ref": "ai-bots-block",
+    "rayName": "9bc2a6e5ceecf571",
+    "ruleId": "7bd01eeccb6b420fa0be30264603a5cb",
+    "description": "Manage AI bots",
+    "rulesetId": "3e677e63d4e9479382576f3fa66279e7",
+    "source": "firewallManaged",
+    "userAgent": "Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; Claude-SearchBot/1.0; +searchbot@anthropic.com)",
+    "matchIndex": 0,
+    "metadata": [
+      {
+        "key": "ruleset_version",
+        "value": "29"
+      },
+      {
+        "key": "version",
+        "value": "22"
+      },
+      {
+        "key": "type",
+        "value": "customer"
+      }
+    ],
+    "sampleInterval": 1
+  },
+  {
+    "action": "block",
+    "clientASNDescription": "HWCLOUDS-AS-AP HUAWEI CLOUDS",
+    "clientAsn": "136907",
+    "clientCountryName": "SG",
+    "clientIP": "114.119.131.189",
+    "clientRefererHost": "sustainabilityprojects.org",
+    "clientRequestHTTPHost": "www.cashadvancenow.com",
+    "clientRequestHTTPMethodName": "GET",
+    "clientRequestHTTPProtocol": "HTTP/1.1",
+    "clientRequestPath": "/ActivityFeed/MyProfile/tabid/61/UserId/71510/Default.aspx",
+    "clientRequestQuery": "",
+    "contentScanObjTypes": [],
+    "datetime": "2026-01-11T07:16:01Z",
+    "ref": "ai-bots-block",
+    "rayName": "9bc2a052df8a9c44",
+    "ruleId": "7bd01eeccb6b420fa0be30264603a5cb",
+    "description": "Manage AI bots",
+    "rulesetId": "3e677e63d4e9479382576f3fa66279e7",
+    "source": "firewallManaged",
+    "userAgent": "Mozilla/5.0 (Linux; Android 7.0;) AppleWebKit/537.36 (KHTML, like Gecko) Mobile Safari/537.36 (compatible; PetalBot;+https://webmaster.petalsearch.com/site/petalbot)",
+    "matchIndex": 0,
+    "metadata": [
+      {
+        "key": "ruleset_version",
+        "value": "29"
+      },
+      {
+        "key": "version",
+        "value": "22"
+      },
+      {
+        "key": "type",
+        "value": "customer"
+      }
+    ],
+    "sampleInterval": 1
+  },
+  {
+    "action": "block",
+    "clientASNDescription": "HWCLOUDS-AS-AP HUAWEI CLOUDS",
+    "clientAsn": "136907",
+    "clientCountryName": "SG",
+    "clientIP": "114.119.157.50",
+    "clientRefererHost": "filtrocapacitivo.com.br",
+    "clientRequestHTTPHost": "www.cashadvancenow.com",
+    "clientRequestHTTPMethodName": "GET",
+    "clientRequestHTTPProtocol": "HTTP/1.1",
+    "clientRequestPath": "/ActivityFeed/MyProfile/tabid/61/UserId/76351/Default.aspx",
+    "clientRequestQuery": "",
+    "contentScanObjTypes": [],
+    "datetime": "2026-01-11T06:51:45Z",
+    "ref": "ai-bots-block",
+    "rayName": "9bc27cc998ca410a",
+    "ruleId": "7bd01eeccb6b420fa0be30264603a5cb",
+    "description": "Manage AI bots",
+    "rulesetId": "3e677e63d4e9479382576f3fa66279e7",
+    "source": "firewallManaged",
+    "userAgent": "Mozilla/5.0 (Linux; Android 7.0;) AppleWebKit/537.36 (KHTML, like Gecko) Mobile Safari/537.36 (compatible; PetalBot;+https://webmaster.petalsearch.com/site/petalbot)",
+    "matchIndex": 0,
+    "metadata": [
+      {
+        "key": "ruleset_version",
+        "value": "29"
+      },
+      {
+        "key": "version",
+        "value": "22"
+      },
+      {
+        "key": "type",
+        "value": "customer"
+      }
+    ],
+    "sampleInterval": 1
+  },
+  {
+    "action": "block",
+    "clientASNDescription": "HWCLOUDS-AS-AP HUAWEI CLOUDS",
+    "clientAsn": "136907",
+    "clientCountryName": "SG",
+    "clientIP": "114.119.131.189",
+    "clientRefererHost": "crystalhomelighting.com",
+    "clientRequestHTTPHost": "www.cashadvancenow.com",
+    "clientRequestHTTPMethodName": "GET",
+    "clientRequestHTTPProtocol": "HTTP/1.1",
+    "clientRequestPath": "/ActivityFeed/MyProfile/tabid/61/UserId/78783/Default.aspx",
+    "clientRequestQuery": "",
+    "contentScanObjTypes": [],
+    "datetime": "2026-01-11T06:27:20Z",
+    "ref": "ai-bots-block",
+    "rayName": "9bc25906ce18ce31",
+    "ruleId": "7bd01eeccb6b420fa0be30264603a5cb",
+    "description": "Manage AI bots",
+    "rulesetId": "3e677e63d4e9479382576f3fa66279e7",
+    "source": "firewallManaged",
+    "userAgent": "Mozilla/5.0 (Linux; Android 7.0;) AppleWebKit/537.36 (KHTML, like Gecko) Mobile Safari/537.36 (compatible; PetalBot;+https://webmaster.petalsearch.com/site/petalbot)",
+    "matchIndex": 0,
+    "metadata": [
+      {
+        "key": "ruleset_version",
+        "value": "29"
+      },
+      {
+        "key": "version",
+        "value": "22"
+      },
+      {
+        "key": "type",
+        "value": "customer"
+      }
+    ],
+    "sampleInterval": 1
+  },
+  {
+    "action": "block",
+    "clientASNDescription": "HWCLOUDS-AS-AP HUAWEI CLOUDS",
+    "clientAsn": "136907",
+    "clientCountryName": "SG",
+    "clientIP": "114.119.130.14",
+    "clientRefererHost": "www.mailstreet.com",
+    "clientRequestHTTPHost": "www.cashadvancenow.com",
+    "clientRequestHTTPMethodName": "GET",
+    "clientRequestHTTPProtocol": "HTTP/1.1",
+    "clientRequestPath": "/ActivityFeed/MyProfile/tabid/61/UserId/79135/Default.aspx",
+    "clientRequestQuery": "",
+    "contentScanObjTypes": [],
+    "datetime": "2026-01-11T06:03:00Z",
+    "ref": "ai-bots-block",
+    "rayName": "9bc23561df29c8d1",
+    "ruleId": "7bd01eeccb6b420fa0be30264603a5cb",
+    "description": "Manage AI bots",
+    "rulesetId": "3e677e63d4e9479382576f3fa66279e7",
+    "source": "firewallManaged",
+    "userAgent": "Mozilla/5.0 (Linux; Android 7.0;) AppleWebKit/537.36 (KHTML, like Gecko) Mobile Safari/537.36 (compatible; PetalBot;+https://webmaster.petalsearch.com/site/petalbot)",
+    "matchIndex": 0,
+    "metadata": [
+      {
+        "key": "ruleset_version",
+        "value": "29"
+      },
+      {
+        "key": "version",
+        "value": "22"
+      },
+      {
+        "key": "type",
+        "value": "customer"
+      }
+    ],
+    "sampleInterval": 1
+  },
+  {
+    "action": "block",
+    "clientASNDescription": "HWCLOUDS-AS-AP HUAWEI CLOUDS",
+    "clientAsn": "136907",
+    "clientCountryName": "SG",
+    "clientIP": "114.119.143.58",
+    "clientRefererHost": "journal.ferme-nomade.fr",
+    "clientRequestHTTPHost": "www.cashadvancenow.com",
+    "clientRequestHTTPMethodName": "GET",
+    "clientRequestHTTPProtocol": "HTTP/1.1",
+    "clientRequestPath": "/ActivityFeed/MyProfile/tabid/61/UserId/82524/Default.aspx",
+    "clientRequestQuery": "",
+    "contentScanObjTypes": [],
+    "datetime": "2026-01-11T05:38:39Z",
+    "ref": "ai-bots-block",
+    "rayName": "9bc211b49bcfa3ef",
+    "ruleId": "7bd01eeccb6b420fa0be30264603a5cb",
+    "description": "Manage AI bots",
+    "rulesetId": "3e677e63d4e9479382576f3fa66279e7",
+    "source": "firewallManaged",
+    "userAgent": "Mozilla/5.0 (Linux; Android 7.0;) AppleWebKit/537.36 (KHTML, like Gecko) Mobile Safari/537.36 (compatible; PetalBot;+https://webmaster.petalsearch.com/site/petalbot)",
+    "matchIndex": 0,
+    "metadata": [
+      {
+        "key": "ruleset_version",
+        "value": "29"
+      },
+      {
+        "key": "version",
+        "value": "22"
+      },
+      {
+        "key": "type",
+        "value": "customer"
+      }
+    ],
+    "sampleInterval": 1
+  }
+]
